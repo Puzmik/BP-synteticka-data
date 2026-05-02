@@ -1,0 +1,301 @@
+COLLISION_ID,CRASH DATE,CRASH TIME,BOROUGH,DRIVER_SEX,CONTRIBUTING_FACTOR_1,VEHICLE_TYPE
+1000001,2024-01-03,08:12,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000002,2024-01-05,14:45,BROOKLYN,M,Unsafe Speed,SUV
+1000003,2024-01-07,19:22,BROOKLYN,F,Following Too Closely,Sedan
+1000004,2024-01-09,22:10,BROOKLYN,M,Failure to Yield Right-of-Way,Pickup
+1000005,2024-01-12,07:33,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000006,2024-01-15,11:05,BROOKLYN,M,Passing or Lane Usage Improper,SUV
+1000007,2024-01-18,16:40,BROOKLYN,F,Unsafe Speed,Sedan
+1000008,2024-01-20,21:55,BROOKLYN,M,Driver Inattention/Distraction,E-Scooter
+1000009,2024-01-22,13:17,BROOKLYN,M,Following Too Closely,SUV
+1000010,2024-01-25,09:50,BROOKLYN,M,Failure to Yield Right-of-Way,Sedan
+1000011,2024-01-27,18:11,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000012,2024-01-30,23:05,BROOKLYN,M,Unsafe Speed,SUV
+1000013,2024-02-02,06:44,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+1000014,2024-02-05,12:30,BROOKLYN,M,Driver Inattention/Distraction,Van
+1000015,2024-02-07,17:55,BROOKLYN,F,Following Too Closely,Sedan
+1000016,2024-02-10,20:22,BROOKLYN,M,Unsafe Speed,SUV
+1000017,2024-02-13,08:15,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000018,2024-02-16,14:08,BROOKLYN,M,Failure to Yield Right-of-Way,Pickup
+1000019,2024-02-19,19:41,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000020,2024-02-22,22:33,BROOKLYN,M,Unsafe Speed,SUV
+1000021,2024-02-25,11:26,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+1000022,2024-02-28,16:52,BROOKLYN,M,Following Too Closely,SUV
+1000023,2024-03-02,07:39,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000024,2024-03-05,13:11,BROOKLYN,M,Unsafe Speed,SUV
+1000025,2024-03-08,18:27,BROOKLYN,M,Failure to Yield Right-of-Way,Sedan
+1000026,2024-03-11,21:50,BROOKLYN,M,Driver Inattention/Distraction,E-Scooter
+1000027,2024-03-14,09:18,BROOKLYN,F,Following Too Closely,Sedan
+1000028,2024-03-17,15:45,BROOKLYN,M,Unsafe Speed,SUV
+1000029,2024-03-20,20:02,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000030,2024-03-23,23:37,BROOKLYN,M,Passing or Lane Usage Improper,Van
+1000031,2024-03-26,10:09,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000032,2024-03-29,14:55,BROOKLYN,M,Unsafe Speed,SUV
+1000033,2024-04-01,19:28,BROOKLYN,M,Failure to Yield Right-of-Way,Sedan
+1000034,2024-04-04,22:12,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000035,2024-04-07,06:58,BROOKLYN,F,Following Too Closely,Sedan
+1000036,2024-04-10,12:41,BROOKLYN,M,Unsafe Speed,SUV
+1000037,2024-04-13,17:33,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000038,2024-04-16,20:47,BROOKLYN,M,Passing or Lane Usage Improper,Pickup
+1000039,2024-04-19,08:22,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000040,2024-04-22,13:56,BROOKLYN,M,Unsafe Speed,SUV
+1000041,2024-04-25,18:18,BROOKLYN,M,Following Too Closely,Sedan
+1000042,2024-04-28,21:40,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000043,2024-05-01,07:11,BROOKLYN,F,Failure to Yield Right-of-Way,Sedan
+1000044,2024-05-04,11:49,BROOKLYN,M,Unsafe Speed,SUV
+1000045,2024-05-07,16:20,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000046,2024-05-10,19:52,BROOKLYN,M,Following Too Closely,SUV
+1000047,2024-05-13,22:14,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000048,2024-05-16,09:36,BROOKLYN,M,Unsafe Speed,Pickup
+1000049,2024-05-19,14:02,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000050,2024-05-22,18:47,BROOKLYN,M,Passing or Lane Usage Improper,SUV
+1000051,2024-05-25,21:11,BROOKLYN,F,Following Too Closely,Sedan
+1000052,2024-05-28,08:33,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000053,2024-06-01,12:45,BROOKLYN,M,Unsafe Speed,Sedan
+1000054,2024-06-04,17:22,BROOKLYN,M,Failure to Yield Right-of-Way,Van
+1000055,2024-06-07,20:05,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000056,2024-06-10,07:55,BROOKLYN,M,Unsafe Speed,SUV
+1000057,2024-06-13,13:18,BROOKLYN,M,Following Too Closely,Sedan
+1000058,2024-06-16,18:40,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000059,2024-06-19,22:10,BROOKLYN,F,Passing or Lane Usage Improper,Sedan
+1000060,2024-06-22,09:44,BROOKLYN,M,Unsafe Speed,Pickup
+1000061,2024-06-25,14:27,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000062,2024-06-28,19:03,BROOKLYN,M,Failure to Yield Right-of-Way,SUV
+1000063,2024-07-01,23:21,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000064,2024-07-04,06:59,BROOKLYN,M,Unsafe Speed,SUV
+1000065,2024-07-07,11:36,BROOKLYN,M,Following Too Closely,Sedan
+1000066,2024-07-10,16:08,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000067,2024-07-13,20:44,BROOKLYN,F,Failure to Yield Right-of-Way,Sedan
+1000068,2024-07-16,08:17,BROOKLYN,M,Unsafe Speed,Van
+1000069,2024-07-19,13:55,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000070,2024-07-22,18:29,BROOKLYN,M,Following Too Closely,SUV
+1000071,2024-07-25,22:02,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000072,2024-07-28,09:41,BROOKLYN,M,Unsafe Speed,SUV
+1000073,2024-07-31,14:16,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000074,2024-08-03,19:52,BROOKLYN,M,Passing or Lane Usage Improper,SUV
+1000075,2024-08-06,07:28,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000076,2024-08-09,12:04,BROOKLYN,M,Unsafe Speed,SUV
+1000077,2024-08-12,16:47,BROOKLYN,M,Following Too Closely,Sedan
+1000078,2024-08-15,21:30,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000079,2024-08-18,10:12,BROOKLYN,F,Failure to Yield Right-of-Way,Sedan
+1000080,2024-08-21,14:59,BROOKLYN,M,Unsafe Speed,Pickup
+1000081,2024-08-24,19:26,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000082,2024-08-27,23:08,BROOKLYN,M,Following Too Closely,SUV
+1000083,2024-08-30,08:43,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000084,2024-09-02,13:21,BROOKLYN,M,Unsafe Speed,SUV
+1000085,2024-09-05,18:05,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+1000086,2024-09-08,22:37,BROOKLYN,M,Passing or Lane Usage Improper,Van
+1000087,2024-09-11,07:14,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+1000088,2024-09-14,11:58,BROOKLYN,M,Unsafe Speed,SUV
+1000089,2024-09-17,16:42,BROOKLYN,M,Following Too Closely,Sedan
+1000090,2024-09-20,20:19,BROOKLYN,M,Driver Inattention/Distraction,SUV
+1000091,2024-09-23,09:03,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000092,2024-09-26,14:28,QUEENS,M,Unsafe Speed,SUV
+1000093,2024-09-29,19:10,QUEENS,F,Following Too Closely,Sedan
+1000094,2024-10-02,22:44,QUEENS,M,Failure to Yield Right-of-Way,Pickup
+1000095,2024-10-05,08:16,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000096,2024-10-08,12:53,QUEENS,M,Unsafe Speed,SUV
+1000097,2024-10-11,17:25,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000098,2024-10-14,21:57,QUEENS,M,Following Too Closely,SUV
+1000099,2024-10-17,10:38,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000100,2024-10-20,15:11,QUEENS,M,Unsafe Speed,SUV
+1000101,2024-10-23,19:55,QUEENS,M,Failure to Yield Right-of-Way,Sedan
+1000102,2024-10-26,08:27,QUEENS,M,Driver Inattention/Distraction,SUV
+1000103,2024-10-29,13:14,QUEENS,F,Following Too Closely,Sedan
+1000104,2024-11-01,17:48,QUEENS,M,Unsafe Speed,SUV
+1000105,2024-11-04,21:06,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000106,2024-11-07,09:32,QUEENS,M,Passing or Lane Usage Improper,Van
+1000107,2024-11-10,14:50,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000108,2024-11-13,18:23,QUEENS,M,Unsafe Speed,SUV
+1000109,2024-11-16,22:41,QUEENS,M,Following Too Closely,Sedan
+1000110,2024-11-19,07:19,QUEENS,M,Driver Inattention/Distraction,SUV
+1000111,2024-11-22,11:57,QUEENS,F,Failure to Yield Right-of-Way,Sedan
+1000112,2024-11-25,16:35,QUEENS,M,Unsafe Speed,SUV
+1000113,2024-11-28,20:12,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000114,2024-12-01,08:46,QUEENS,M,Following Too Closely,SUV
+1000115,2024-12-04,13:29,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000116,2024-12-07,17:58,QUEENS,M,Unsafe Speed,SUV
+1000117,2024-12-10,21:33,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000118,2024-12-13,10:05,QUEENS,M,Failure to Yield Right-of-Way,Pickup
+1000119,2024-12-16,14:42,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000120,2024-12-19,19:17,QUEENS,M,Unsafe Speed,SUV
+1000121,2024-12-22,23:51,QUEENS,M,Following Too Closely,Sedan
+1000122,2024-12-25,09:26,QUEENS,M,Driver Inattention/Distraction,SUV
+1000123,2024-12-28,13:58,QUEENS,F,Passing or Lane Usage Improper,Sedan
+1000124,2024-12-31,18:34,QUEENS,M,Unsafe Speed,SUV
+1000125,2025-01-03,22:07,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000126,2025-01-06,07:39,QUEENS,M,Following Too Closely,SUV
+1000127,2025-01-09,12:15,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000128,2025-01-12,16:48,QUEENS,M,Unsafe Speed,SUV
+1000129,2025-01-15,20:22,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000130,2025-01-18,08:54,QUEENS,M,Failure to Yield Right-of-Way,Van
+1000131,2025-01-21,13:36,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000132,2025-01-24,18:11,QUEENS,M,Unsafe Speed,SUV
+1000133,2025-01-27,22:43,QUEENS,M,Following Too Closely,Sedan
+1000134,2025-01-30,09:20,QUEENS,M,Driver Inattention/Distraction,SUV
+1000135,2025-02-02,14:02,QUEENS,F,Failure to Yield Right-of-Way,Sedan
+1000136,2025-02-05,18:37,QUEENS,M,Unsafe Speed,SUV
+1000137,2025-02-08,23:15,QUEENS,M,Driver Inattention/Distraction,Sedan
+1000138,2025-02-11,07:48,QUEENS,M,Following Too Closely,SUV
+1000139,2025-02-14,12:24,QUEENS,F,Driver Inattention/Distraction,Sedan
+1000140,2025-02-17,17:59,QUEENS,M,Unsafe Speed,SUV
+1000141,2025-02-20,21:31,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000142,2025-02-23,08:17,MANHATTAN,M,Unsafe Speed,SUV
+1000143,2025-02-26,13:45,MANHATTAN,M,Following Too Closely,Sedan
+1000144,2025-03-01,18:22,MANHATTAN,M,Failure to Yield Right-of-Way,Taxi
+1000145,2025-03-04,22:56,MANHATTAN,F,Driver Inattention/Distraction,Sedan
+1000146,2025-03-07,07:34,MANHATTAN,M,Unsafe Speed,SUV
+1000147,2025-03-10,12:11,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000148,2025-03-13,16:49,MANHATTAN,M,Following Too Closely,SUV
+1000149,2025-03-16,20:27,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000150,2025-03-19,09:03,MANHATTAN,M,Unsafe Speed,Taxi
+1000151,2025-03-22,13:39,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000152,2025-03-25,18:14,MANHATTAN,M,Passing or Lane Usage Improper,SUV
+1000153,2025-03-28,22:47,MANHATTAN,F,Driver Inattention/Distraction,Sedan
+1000154,2025-03-31,08:25,MANHATTAN,M,Unsafe Speed,SUV
+1000155,2025-04-03,12:58,MANHATTAN,M,Following Too Closely,Sedan
+1000156,2025-04-06,17:36,MANHATTAN,M,Driver Inattention/Distraction,SUV
+1000157,2025-04-09,21:12,MANHATTAN,M,Failure to Yield Right-of-Way,Sedan
+1000158,2025-04-12,09:44,MANHATTAN,M,Unsafe Speed,Taxi
+1000159,2025-04-15,14:21,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000160,2025-04-18,18:55,MANHATTAN,M,Following Too Closely,SUV
+1000161,2025-04-21,23:28,MANHATTAN,F,Driver Inattention/Distraction,Sedan
+1000162,2025-04-24,07:52,MANHATTAN,M,Unsafe Speed,SUV
+1000163,2025-04-27,12:33,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000164,2025-04-30,17:09,MANHATTAN,M,Passing or Lane Usage Improper,SUV
+1000165,2025-05-03,21:41,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000166,2025-05-06,08:16,MANHATTAN,M,Unsafe Speed,Taxi
+1000167,2025-05-09,13:48,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000168,2025-05-12,18:23,MANHATTAN,F,Following Too Closely,SUV
+1000169,2025-05-15,22:57,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000170,2025-05-18,09:29,MANHATTAN,M,Unsafe Speed,SUV
+1000171,2025-05-21,14:05,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000172,2025-05-24,18:38,MANHATTAN,M,Failure to Yield Right-of-Way,Taxi
+1000173,2025-05-27,23:12,MANHATTAN,F,Driver Inattention/Distraction,Sedan
+1000174,2025-05-30,07:44,MANHATTAN,M,Unsafe Speed,SUV
+1000175,2025-06-02,12:26,MANHATTAN,M,Following Too Closely,Sedan
+1000176,2025-06-05,16:58,MANHATTAN,M,Driver Inattention/Distraction,SUV
+1000177,2025-06-08,21:30,MANHATTAN,M,Passing or Lane Usage Improper,Sedan
+1000178,2025-06-11,08:03,MANHATTAN,M,Unsafe Speed,Taxi
+1000179,2025-06-14,13:35,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000180,2025-06-17,18:09,MANHATTAN,F,Following Too Closely,SUV
+1000181,2025-06-20,22:42,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000182,2025-06-23,09:14,MANHATTAN,M,Unsafe Speed,SUV
+1000183,2025-06-26,13:51,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000184,2025-06-29,18:25,MANHATTAN,M,Failure to Yield Right-of-Way,Taxi
+1000185,2025-07-02,22:59,MANHATTAN,F,Driver Inattention/Distraction,Sedan
+1000186,2025-07-05,07:31,MANHATTAN,M,Unsafe Speed,SUV
+1000187,2025-07-08,12:07,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000188,2025-07-11,16:40,MANHATTAN,M,Following Too Closely,SUV
+1000189,2025-07-14,21:18,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000190,2025-07-17,08:50,MANHATTAN,M,Unsafe Speed,Taxi
+1000191,2025-07-20,13:27,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000192,2025-07-23,18:02,MANHATTAN,F,Following Too Closely,SUV
+1000193,2025-07-26,22:36,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000194,2025-07-29,09:08,MANHATTAN,M,Unsafe Speed,SUV
+1000195,2025-08-01,13:42,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000196,2025-08-04,18:15,MANHATTAN,M,Passing or Lane Usage Improper,SUV
+1000197,2025-08-07,22:48,MANHATTAN,F,Driver Inattention/Distraction,Sedan
+1000198,2025-08-10,07:20,MANHATTAN,M,Unsafe Speed,Taxi
+1000199,2025-08-13,12:54,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+1000200,2025-08-16,17:29,MANHATTAN,M,Following Too Closely,SUV
+1000201,2025-08-19,21:57,BRONX,M,Driver Inattention/Distraction,Sedan
+1000202,2025-08-22,08:33,BRONX,M,Unsafe Speed,SUV
+1000203,2025-08-25,13:11,BRONX,F,Following Too Closely,Sedan
+1000204,2025-08-28,17:48,BRONX,M,Failure to Yield Right-of-Way,Pickup
+1000205,2025-08-31,22:16,BRONX,M,Driver Inattention/Distraction,Sedan
+1000206,2025-09-03,07:52,BRONX,M,Unsafe Speed,SUV
+1000207,2025-09-06,12:29,BRONX,F,Driver Inattention/Distraction,Sedan
+1000208,2025-09-09,16:57,BRONX,M,Following Too Closely,SUV
+1000209,2025-09-12,21:34,BRONX,M,Driver Inattention/Distraction,Sedan
+1000210,2025-09-15,09:08,BRONX,M,Unsafe Speed,Van
+1000211,2025-09-18,13:46,BRONX,F,Driver Inattention/Distraction,Sedan
+1000212,2025-09-21,18:23,BRONX,M,Passing or Lane Usage Improper,SUV
+1000213,2025-09-24,22:59,BRONX,M,Driver Inattention/Distraction,Sedan
+1000214,2025-09-27,07:35,BRONX,M,Unsafe Speed,SUV
+1000215,2025-09-30,12:12,BRONX,F,Following Too Closely,Sedan
+1000216,2025-10-03,16:49,BRONX,M,Driver Inattention/Distraction,SUV
+1000217,2025-10-06,21:25,BRONX,M,Failure to Yield Right-of-Way,Sedan
+1000218,2025-10-09,08:01,BRONX,M,Unsafe Speed,Pickup
+1000219,2025-10-12,13:38,BRONX,F,Driver Inattention/Distraction,Sedan
+1000220,2025-10-15,18:14,BRONX,M,Following Too Closely,SUV
+1000221,2025-10-18,22:51,BRONX,M,Driver Inattention/Distraction,Sedan
+1000222,2025-10-21,07:27,BRONX,M,Unsafe Speed,SUV
+1000223,2025-10-24,12:05,BRONX,F,Driver Inattention/Distraction,Sedan
+1000224,2025-10-27,16:42,BRONX,M,Passing or Lane Usage Improper,SUV
+1000225,2025-10-30,21:18,BRONX,M,Driver Inattention/Distraction,Sedan
+1000226,2025-11-02,08:54,BRONX,M,Unsafe Speed,Van
+1000227,2025-11-05,13:31,BRONX,F,Following Too Closely,Sedan
+1000228,2025-11-08,18:07,BRONX,M,Driver Inattention/Distraction,SUV
+1000229,2025-11-11,22:44,BRONX,M,Failure to Yield Right-of-Way,Sedan
+1000230,2025-11-14,07:20,BRONX,M,Unsafe Speed,SUV
+1000231,2025-11-17,11:58,BRONX,F,Driver Inattention/Distraction,Sedan
+1000232,2025-11-20,16:35,BRONX,M,Following Too Closely,SUV
+1000233,2025-11-23,21:12,BRONX,M,Driver Inattention/Distraction,Sedan
+1000234,2025-11-26,08:48,BRONX,M,Unsafe Speed,Pickup
+1000235,2025-11-29,13:26,BRONX,F,Driver Inattention/Distraction,Sedan
+1000236,2025-12-02,18:02,BRONX,M,Passing or Lane Usage Improper,SUV
+1000237,2025-12-05,22:39,BRONX,M,Driver Inattention/Distraction,Sedan
+1000238,2025-12-08,07:15,BRONX,M,Unsafe Speed,SUV
+1000239,2025-12-11,11:53,BRONX,F,Following Too Closely,Sedan
+1000240,2025-12-14,16:29,BRONX,M,Driver Inattention/Distraction,SUV
+1000241,2025-12-17,21:06,BRONX,M,Failure to Yield Right-of-Way,Sedan
+1000242,2025-12-20,08:42,BRONX,M,Unsafe Speed,Van
+1000243,2025-12-23,13:19,BRONX,F,Driver Inattention/Distraction,Sedan
+1000244,2025-12-26,17:55,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000245,2025-12-27,09:21,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000246,2025-12-27,14:48,STATEN ISLAND,M,Following Too Closely,SUV
+1000247,2025-12-27,18:32,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000248,2025-12-27,22:05,STATEN ISLAND,M,Failure to Yield Right-of-Way,Pickup
+1000249,2025-12-28,07:44,STATEN ISLAND,M,Unsafe Speed,SUV
+1000250,2025-12-28,11:18,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000251,2025-12-28,15:53,STATEN ISLAND,M,Following Too Closely,SUV
+1000252,2025-12-28,19:26,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000253,2025-12-28,23:01,STATEN ISLAND,M,Unsafe Speed,Van
+1000254,2025-12-29,08:37,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000255,2025-12-29,12:09,STATEN ISLAND,F,Following Too Closely,Sedan
+1000256,2025-12-29,16:42,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000257,2025-12-29,20:15,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000258,2025-12-29,23:48,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000259,2025-12-30,07:22,STATEN ISLAND,M,Failure to Yield Right-of-Way,Sedan
+1000260,2025-12-30,10:56,STATEN ISLAND,F,Driver Inattention/Distraction,SUV
+1000261,2025-12-30,14:30,STATEN ISLAND,M,Unsafe Speed,Sedan
+1000262,2025-12-30,18:03,STATEN ISLAND,F,Following Too Closely,SUV
+1000263,2025-12-30,21:37,STATEN ISLAND,M,Driver Inattention/Distraction,Sedan
+1000264,2025-12-31,08:11,STATEN ISLAND,M,Unsafe Speed,SUV
+1000265,2025-12-31,11:45,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000266,2025-12-31,15:18,STATEN ISLAND,M,Following Too Closely,SUV
+1000267,2025-12-31,18:52,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000268,2025-12-31,22:25,STATEN ISLAND,M,Unsafe Speed,SUV
+1000269,2025-12-31,23:59,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000270,2025-12-31,23:59,STATEN ISLAND,M,Failure to Yield Right-of-Way,SUV
+1000271,2025-12-31,23:59,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000272,2025-12-31,23:59,STATEN ISLAND,M,Unsafe Speed,SUV
+1000273,2025-12-31,23:59,STATEN ISLAND,F,Following Too Closely,Sedan
+1000274,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000275,2025-12-31,23:59,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000276,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000277,2025-12-31,23:59,STATEN ISLAND,F,Following Too Closely,Sedan
+1000278,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000279,2025-12-31,23:59,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000280,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000281,2025-12-31,23:59,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000282,2025-12-31,23:59,STATEN ISLAND,M,Unsafe Speed,SUV
+1000283,2025-12-31,23:59,STATEN ISLAND,F,Following Too Closely,Sedan
+1000284,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000285,2025-12-31,23:59,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000286,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000287,2025-12-31,23:59,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000288,2025-12-31,23:59,STATEN ISLAND,M,Unsafe Speed,SUV
+1000289,2025-12-31,23:59,STATEN ISLAND,F,Following Too Closely,Sedan
+1000290,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000291,2025-12-31,23:59,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000292,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000293,2025-12-31,23:59,STATEN ISLAND,F,Following Too Closely,Sedan
+1000294,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000295,2025-12-31,23:59,STATEN ISLAND,F,Unsafe Speed,Sedan
+1000296,2025-12-31,23:59,STATEN ISLAND,M,Driver Inattention/Distraction,SUV
+1000297,2025-12-31,23:59,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+1000298,2025-12-31,23:59,STATEN ISLAND,M,Unsafe Speed,SUV
+1000299,2025-12-31,23:59,STATEN ISLAND,F,Following Too Closely,Sedan
+1000300,2025-12-28,18:42,STATEN ISLAND,F,Driver Inattention/Distraction,SUV

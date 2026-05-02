@@ -1,0 +1,301 @@
+COLLISION_ID,CRASH DATE,CRASH TIME,BOROUGH,DRIVER_SEX,CONTRIBUTING_FACTOR_1,VEHICLE_TYPE
+4700001,2024-05-12,14:30,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700002,2024-01-22,08:15,QUEENS,F,Failure to Yield Right-of-Way,SUV
+4700003,2025-03-04,19:45,MANHATTAN,M,Following Too Closely,Taxi
+4700004,2024-11-18,11:20,BRONX,M,Unsafe Speed,Sedan
+4700005,2025-07-09,16:05,BROOKLYN,M,Driver Inattention/Distraction,SUV
+4700006,2024-08-30,22:10,STATEN ISLAND,F,Pavement Slippery,Sedan
+4700007,2025-12-14,07:50,MANHATTAN,M,Driver Inattention/Distraction,Box Truck
+4700008,2024-04-02,13:25,QUEENS,M,Backing Unsafely,Sedan
+4700009,2025-02-27,15:40,BROOKLYN,F,Passing or Lane Usage Improper,E-Scooter
+4700010,2024-06-15,18:55,BRONX,M,Traffic Control Disregarded,SUV
+4700011,2025-09-21,09:15,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700012,2024-10-05,21:30,MANHATTAN,M,Unsafe Lane Changing,Taxi
+4700013,2025-01-11,12:00,QUEENS,M,Alcohol Involvement,Sedan
+4700014,2024-03-22,06:45,BROOKLYN,M,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle
+4700015,2025-05-30,17:20,BRONX,F,Failure to Yield Right-of-Way,Sedan
+4700016,2024-12-08,23:15,STATEN ISLAND,M,Unsafe Speed,SUV
+4700017,2025-08-14,14:10,QUEENS,F,Driver Inattention/Distraction,Sedan
+4700018,2024-02-19,10:35,MANHATTAN,M,Following Too Closely,Bus
+4700019,2025-11-03,15:50,BROOKLYN,M,Turning Improperly,Sedan
+4700020,2024-07-26,19:00,QUEENS,M,Driver Inattention/Distraction,SUV
+4700021,2025-04-12,08:40,BRONX,M,Reaction to Uninvolved Vehicle,Sedan
+4700022,2024-09-07,13:15,BROOKLYN,F,Failure to Yield Right-of-Way,Sedan
+4700023,2025-10-28,16:25,MANHATTAN,M,Driver Inattention/Distraction,Delivery Truck
+4700024,2024-05-04,11:10,QUEENS,M,Backing Unsafely,SUV
+4700025,2025-06-19,20:45,BROOKLYN,M,Unsafe Speed,Sedan
+4700026,2024-01-14,14:30,BRONX,F,Driver Inattention/Distraction,Sedan
+4700027,2025-02-05,07:20,QUEENS,M,Following Too Closely,SUV
+4700028,2024-11-23,18:15,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700029,2025-03-17,12:50,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+4700030,2024-08-11,15:35,STATEN ISLAND,M,Failure to Yield Right-of-Way,SUV
+4700031,2025-07-22,09:05,QUEENS,M,Driver Inattention/Distraction,Sedan
+4700032,2024-04-29,16:40,BROOKLYN,F,Unsafe Lane Changing,SUV
+4700033,2025-01-08,13:20,MANHATTAN,M,Following Too Closely,Sedan
+4700034,2024-06-30,22:55,BRONX,M,Alcohol Involvement,Sedan
+4700035,2025-05-15,11:45,QUEENS,F,Driver Inattention/Distraction,SUV
+4700036,2024-10-18,08:30,BROOKLYN,M,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle
+4700037,2025-09-02,15:10,MANHATTAN,M,Driver Inattention/Distraction,E-Bike
+4700038,2024-03-12,14:20,QUEENS,M,Backing Unsafely,Sedan
+4700039,2025-11-25,17:05,BROOKLYN,M,Unsafe Speed,Sedan
+4700040,2024-07-04,21:40,BRONX,M,Aggressive Driving/Road Rage,SUV
+4700041,2025-04-30,10:25,QUEENS,M,Driver Inattention/Distraction,Sedan
+4700042,2024-09-22,12:15,BROOKLYN,F,Passing or Lane Usage Improper,SUV
+4700043,2025-12-01,16:50,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700044,2024-05-28,08:00,BROOKLYN,M,Following Too Closely,Sedan
+4700045,2025-08-19,14:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700046,2024-11-09,19:20,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4700047,2025-02-14,13:35,BROOKLYN,M,Backing Unsafely,Box Truck
+4700048,2024-02-02,11:10,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+4700049,2025-06-05,15:55,MANHATTAN,M,Turning Improperly,Sedan
+4700050,2024-08-23,07:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700051,2025-11-12,14:20,BROOKLYN,M,Following Too Closely,Sedan
+4700052,2024-04-18,17:40,QUEENS,M,Unsafe Speed,SUV
+4700053,2025-03-29,11:05,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+4700054,2024-12-05,09:30,BRONX,F,Failure to Yield Right-of-Way,SUV
+4700055,2025-07-16,21:15,BROOKLYN,M,Alcohol Involvement,Sedan
+4700056,2024-06-25,13:50,QUEENS,F,Driver Inattention/Distraction,Sedan
+4700057,2025-09-08,16:45,MANHATTAN,M,Traffic Control Disregarded,Taxi
+4700058,2024-02-14,08:20,BROOKLYN,M,Backing Unsafely,SUV
+4700059,2025-10-02,12:35,BRONX,M,Driver Inattention/Distraction,Sedan
+4700060,2024-11-20,19:10,QUEENS,M,Following Too Closely,Sedan
+4700061,2025-01-24,07:55,BROOKLYN,F,Turning Improperly,SUV
+4700062,2024-05-19,15:20,MANHATTAN,M,Driver Inattention/Distraction,Bus
+4700063,2025-04-05,18:00,QUEENS,M,Unsafe Lane Changing,Sedan
+4700064,2024-08-12,10:15,BROOKLYN,M,Driver Inattention/Distraction,E-Bike
+4700065,2025-08-27,13:40,BRONX,M,Passing or Lane Usage Improper,Sedan
+4700066,2024-03-09,16:55,BROOKLYN,M,Failure to Yield Right-of-Way,SUV
+4700067,2025-02-18,09:10,STATEN ISLAND,M,Driver Inattention/Distraction,Sedan
+4700068,2024-10-30,20:30,MANHATTAN,M,Unsafe Speed,Taxi
+4700069,2025-06-12,11:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700070,2024-07-14,14:25,BROOKLYN,F,Following Too Closely,Sedan
+4700071,2025-12-20,17:15,MANHATTAN,M,Failure to Yield Right-of-Way,Sedan
+4700072,2024-01-05,10:50,QUEENS,F,Driver Inattention/Distraction,SUV
+4700073,2025-03-14,08:05,BROOKLYN,M,Backing Unsafely,Sedan
+4700074,2024-09-28,15:35,BRONX,M,Driver Inattention/Distraction,Sedan
+4700075,2025-05-22,12:20,QUEENS,M,Following Too Closely,SUV
+4700076,2024-12-15,19:40,BROOKLYN,M,Turning Improperly,Sedan
+4700077,2025-08-01,16:00,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700078,2024-04-10,07:30,QUEENS,M,Unsafe Speed,SUV
+4700079,2025-02-02,11:15,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+4700080,2024-11-14,14:50,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4700081,2025-09-15,08:35,QUEENS,M,Driver Inattention/Distraction,SUV
+4700082,2024-06-08,13:20,BROOKLYN,M,Following Too Closely,Sedan
+4700083,2025-04-25,17:55,MANHATTAN,M,Unsafe Lane Changing,Sedan
+4700084,2024-02-28,10:10,STATEN ISLAND,F,Driver Inattention/Distraction,SUV
+4700085,2025-10-14,15:45,QUEENS,M,Failure to Yield Right-of-Way,Sedan
+4700086,2024-08-19,12:05,BROOKLYN,M,Driver Inattention/Distraction,SUV
+4700087,2025-11-30,22:15,MANHATTAN,M,Alcohol Involvement,Taxi
+4700088,2024-05-07,09:40,QUEENS,F,Backing Unsafely,Sedan
+4700089,2025-01-18,14:10,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700090,2024-03-27,11:55,BRONX,M,Following Too Closely,SUV
+4700091,2025-07-04,19:30,QUEENS,M,Unsafe Speed,Sedan
+4700092,2024-12-02,08:15,BROOKLYN,F,Driver Inattention/Distraction,SUV
+4700093,2025-03-22,13:50,MANHATTAN,M,Turning Improperly,Sedan
+4700094,2024-09-12,16:20,QUEENS,M,Driver Inattention/Distraction,SUV
+4700095,2025-06-28,10:45,BROOKLYN,M,Failure to Yield Right-of-Way,Sedan
+4700096,2024-01-30,15:10,BRONX,M,Driver Inattention/Distraction,Sedan
+4700097,2025-08-12,07:35,QUEENS,M,Following Too Closely,SUV
+4700098,2024-10-14,12:25,BROOKLYN,M,Unsafe Lane Changing,Sedan
+4700099,2025-11-08,18:40,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700100,2024-04-24,11:15,STATEN ISLAND,M,Backing Unsafely,Sedan
+4700101,2025-02-14,14:30,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700102,2024-07-22,08:15,QUEENS,F,Failure to Yield Right-of-Way,SUV
+4700103,2025-09-29,19:45,MANHATTAN,M,Following Too Closely,Sedan
+4700104,2024-11-02,11:20,BRONX,M,Unsafe Speed,Sedan
+4700105,2025-04-16,16:05,BROOKLYN,M,Driver Inattention/Distraction,SUV
+4700106,2024-06-12,22:10,STATEN ISLAND,F,Pavement Slippery,Sedan
+4700107,2025-01-04,07:50,MANHATTAN,M,Driver Inattention/Distraction,Box Truck
+4700108,2024-03-02,13:25,QUEENS,M,Backing Unsafely,Sedan
+4700109,2025-10-27,15:40,BROOKLYN,F,Passing or Lane Usage Improper,E-Scooter
+4700110,2024-08-15,18:55,BRONX,M,Traffic Control Disregarded,SUV
+4700111,2025-05-21,09:15,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700112,2024-12-05,21:30,MANHATTAN,M,Unsafe Lane Changing,Taxi
+4700113,2025-06-11,12:00,QUEENS,M,Alcohol Involvement,Sedan
+4700114,2024-01-22,06:45,BROOKLYN,M,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle
+4700115,2025-03-30,17:20,BRONX,F,Failure to Yield Right-of-Way,Sedan
+4700116,2024-09-08,23:15,STATEN ISLAND,M,Unsafe Speed,SUV
+4700117,2025-02-14,14:10,QUEENS,F,Driver Inattention/Distraction,Sedan
+4700118,2024-07-19,10:35,MANHATTAN,M,Following Too Closely,Bus
+4700119,2025-11-03,15:50,BROOKLYN,M,Turning Improperly,Sedan
+4700120,2024-04-26,19:00,QUEENS,M,Driver Inattention/Distraction,SUV
+4700121,2025-12-12,08:40,BRONX,M,Reaction to Uninvolved Vehicle,Sedan
+4700122,2024-02-07,13:15,BROOKLYN,F,Failure to Yield Right-of-Way,Sedan
+4700123,2025-10-28,16:25,MANHATTAN,M,Driver Inattention/Distraction,Delivery Truck
+4700124,2024-11-04,11:10,QUEENS,M,Backing Unsafely,SUV
+4700125,2025-05-19,20:45,BROOKLYN,M,Unsafe Speed,Sedan
+4700126,2024-08-14,14:30,BRONX,F,Driver Inattention/Distraction,Sedan
+4700127,2025-01-05,07:20,QUEENS,M,Following Too Closely,SUV
+4700128,2024-03-23,18:15,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700129,2025-09-17,12:50,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+4700130,2024-06-11,15:35,STATEN ISLAND,M,Failure to Yield Right-of-Way,SUV
+4700131,2025-12-22,09:05,QUEENS,M,Driver Inattention/Distraction,Sedan
+4700132,2024-02-29,16:40,BROOKLYN,F,Unsafe Lane Changing,SUV
+4700133,2025-10-08,13:20,MANHATTAN,M,Following Too Closely,Sedan
+4700134,2024-05-30,22:55,BRONX,M,Alcohol Involvement,Sedan
+4700135,2025-11-15,11:45,QUEENS,F,Driver Inattention/Distraction,SUV
+4700136,2024-07-18,08:30,BROOKLYN,M,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle
+4700137,2025-04-02,15:10,MANHATTAN,M,Driver Inattention/Distraction,E-Bike
+4700138,2024-12-12,14:20,QUEENS,M,Backing Unsafely,Sedan
+4700139,2025-02-25,17:05,BROOKLYN,M,Unsafe Speed,Sedan
+4700140,2024-01-04,21:40,BRONX,M,Aggressive Driving/Road Rage,SUV
+4700141,2025-08-30,10:25,QUEENS,M,Driver Inattention/Distraction,Sedan
+4700142,2024-10-22,12:15,BROOKLYN,F,Passing or Lane Usage Improper,SUV
+4700143,2025-05-01,16:50,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700144,2024-03-28,08:00,BROOKLYN,M,Following Too Closely,Sedan
+4700145,2025-12-19,14:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700146,2024-06-09,19:20,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4700147,2025-09-14,13:35,BROOKLYN,M,Backing Unsafely,Box Truck
+4700148,2024-11-02,11:10,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+4700149,2025-01-05,15:55,MANHATTAN,M,Turning Improperly,Sedan
+4700150,2024-02-23,07:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700151,2025-04-12,14:20,BROOKLYN,M,Following Too Closely,Sedan
+4700152,2024-09-18,17:40,QUEENS,M,Unsafe Speed,SUV
+4700153,2025-10-29,11:05,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+4700154,2024-05-05,09:30,BRONX,F,Failure to Yield Right-of-Way,SUV
+4700155,2025-02-16,21:15,BROOKLYN,M,Alcohol Involvement,Sedan
+4700156,2024-11-25,13:50,QUEENS,F,Driver Inattention/Distraction,Sedan
+4700157,2025-01-08,16:45,MANHATTAN,M,Traffic Control Disregarded,Taxi
+4700158,2024-07-14,08:20,BROOKLYN,M,Backing Unsafely,SUV
+4700159,2025-03-02,12:35,BRONX,M,Driver Inattention/Distraction,Sedan
+4700160,2024-06-20,19:10,QUEENS,M,Following Too Closely,Sedan
+4700161,2025-08-24,07:55,BROOKLYN,F,Turning Improperly,SUV
+4700162,2024-12-19,15:20,MANHATTAN,M,Driver Inattention/Distraction,Bus
+4700163,2025-11-05,18:00,QUEENS,M,Unsafe Lane Changing,Sedan
+4700164,2024-03-12,10:15,BROOKLYN,M,Driver Inattention/Distraction,E-Bike
+4700165,2025-05-27,13:40,BRONX,M,Passing or Lane Usage Improper,Sedan
+4700166,2024-10-09,16:55,BROOKLYN,M,Failure to Yield Right-of-Way,SUV
+4700167,2025-09-18,09:10,STATEN ISLAND,M,Driver Inattention/Distraction,Sedan
+4700168,2024-02-29,20:30,MANHATTAN,M,Unsafe Speed,Taxi
+4700169,2025-01-12,11:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700170,2024-04-14,14:25,BROOKLYN,F,Following Too Closely,Sedan
+4700171,2025-10-20,17:15,MANHATTAN,M,Failure to Yield Right-of-Way,Sedan
+4700172,2024-08-05,10:50,QUEENS,F,Driver Inattention/Distraction,SUV
+4700173,2025-11-14,08:05,BROOKLYN,M,Backing Unsafely,Sedan
+4700174,2024-05-28,15:35,BRONX,M,Driver Inattention/Distraction,Sedan
+4700175,2025-12-22,12:20,QUEENS,M,Following Too Closely,SUV
+4700176,2024-02-15,19:40,BROOKLYN,M,Turning Improperly,Sedan
+4700177,2025-03-01,16:00,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700178,2024-09-10,07:30,QUEENS,M,Unsafe Speed,SUV
+4700179,2025-07-02,11:15,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+4700180,2024-06-14,14:50,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4700181,2025-04-15,08:35,QUEENS,M,Driver Inattention/Distraction,SUV
+4700182,2024-11-08,13:20,BROOKLYN,M,Following Too Closely,Sedan
+4700183,2025-02-25,17:55,MANHATTAN,M,Unsafe Lane Changing,Sedan
+4700184,2024-07-28,10:10,STATEN ISLAND,F,Driver Inattention/Distraction,SUV
+4700185,2025-05-14,15:45,QUEENS,M,Failure to Yield Right-of-Way,Sedan
+4700186,2024-03-19,12:05,BROOKLYN,M,Driver Inattention/Distraction,SUV
+4700187,2025-06-30,22:15,MANHATTAN,M,Alcohol Involvement,Taxi
+4700188,2024-10-07,09:40,QUEENS,F,Backing Unsafely,Sedan
+4700189,2025-08-18,14:10,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700190,2024-01-27,11:55,BRONX,M,Following Too Closely,SUV
+4700191,2025-12-04,19:30,QUEENS,M,Unsafe Speed,Sedan
+4700192,2024-05-02,08:15,BROOKLYN,F,Driver Inattention/Distraction,SUV
+4700193,2025-10-22,13:50,MANHATTAN,M,Turning Improperly,Sedan
+4700194,2024-04-12,16:20,QUEENS,M,Driver Inattention/Distraction,SUV
+4700195,2025-01-28,10:45,BROOKLYN,M,Failure to Yield Right-of-Way,Sedan
+4700196,2024-08-30,15:10,BRONX,M,Driver Inattention/Distraction,Sedan
+4700197,2025-03-12,07:35,QUEENS,M,Following Too Closely,SUV
+4700198,2024-03-14,12:25,BROOKLYN,M,Unsafe Lane Changing,Sedan
+4700199,2025-04-08,18:40,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700200,2024-11-24,11:15,STATEN ISLAND,M,Backing Unsafely,Sedan
+4700201,2025-06-14,14:30,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700202,2024-02-22,08:15,QUEENS,F,Failure to Yield Right-of-Way,SUV
+4700203,2025-01-29,19:45,MANHATTAN,M,Following Too Closely,Sedan
+4700204,2024-06-02,11:20,BRONX,M,Unsafe Speed,Sedan
+4700205,2025-11-16,16:05,BROOKLYN,M,Driver Inattention/Distraction,SUV
+4700206,2024-01-12,22:10,STATEN ISLAND,F,Pavement Slippery,Sedan
+4700207,2025-08-04,07:50,MANHATTAN,M,Driver Inattention/Distraction,Box Truck
+4700208,2024-10-02,13:25,QUEENS,M,Backing Unsafely,Sedan
+4700209,2025-05-27,15:40,BROOKLYN,F,Passing or Lane Usage Improper,E-Scooter
+4700210,2024-03-15,18:55,BRONX,M,Traffic Control Disregarded,SUV
+4700211,2025-12-21,09:15,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700212,2024-07-05,21:30,MANHATTAN,M,Unsafe Lane Changing,Taxi
+4700213,2025-01-11,12:00,QUEENS,M,Alcohol Involvement,Sedan
+4700214,2024-08-22,06:45,BROOKLYN,M,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle
+4700215,2025-10-30,17:20,BRONX,F,Failure to Yield Right-of-Way,Sedan
+4700216,2024-04-08,23:15,STATEN ISLAND,M,Unsafe Speed,SUV
+4700217,2025-09-14,14:10,QUEENS,F,Driver Inattention/Distraction,Sedan
+4700218,2024-02-19,10:35,MANHATTAN,M,Following Too Closely,Bus
+4700219,2025-6-03,15:50,BROOKLYN,M,Turning Improperly,Sedan
+4700220,2024-11-26,19:00,QUEENS,M,Driver Inattention/Distraction,SUV
+4700221,2025-07-12,08:40,BRONX,M,Reaction to Uninvolved Vehicle,Sedan
+4700222,2024-09-07,13:15,BROOKLYN,F,Failure to Yield Right-of-Way,Sedan
+4700223,2025-05-28,16:25,MANHATTAN,M,Driver Inattention/Distraction,Delivery Truck
+4700224,2024-06-04,11:10,QUEENS,M,Backing Unsafely,SUV
+4700225,2025-12-19,20:45,BROOKLYN,M,Unsafe Speed,Sedan
+4700226,2024-03-14,14:30,BRONX,F,Driver Inattention/Distraction,Sedan
+4700227,2025-08-05,07:20,QUEENS,M,Following Too Closely,SUV
+4700228,2024-10-23,18:15,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700229,2025-04-17,12:50,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+4700230,2024-01-11,15:35,STATEN ISLAND,M,Failure to Yield Right-of-Way,SUV
+4700231,2025-07-22,09:05,QUEENS,M,Driver Inattention/Distraction,Sedan
+4700232,2024-09-29,16:40,BROOKLYN,F,Unsafe Lane Changing,SUV
+4700233,2025-05-08,13:20,MANHATTAN,M,Following Too Closely,Sedan
+4700234,2024-12-30,22:55,BRONX,M,Alcohol Involvement,Sedan
+4700235,2025-06-15,11:45,QUEENS,F,Driver Inattention/Distraction,SUV
+4700236,2024-02-18,08:30,BROOKLYN,M,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle
+4700237,2025-11-02,15:10,MANHATTAN,M,Driver Inattention/Distraction,E-Bike
+4700238,2024-07-12,14:20,QUEENS,M,Backing Unsafely,Sedan
+4700239,2025-09-25,17:05,BROOKLYN,M,Unsafe Speed,Sedan
+4700240,2024-08-04,21:40,BRONX,M,Aggressive Driving/Road Rage,SUV
+4700241,2025-03-30,10:25,QUEENS,M,Driver Inattention/Distraction,Sedan
+4700242,2024-05-22,12:15,BROOKLYN,F,Passing or Lane Usage Improper,SUV
+4700243,2025-12-01,16:50,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700244,2024-10-28,08:00,BROOKLYN,M,Following Too Closely,Sedan
+4700245,2025-07-19,14:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700246,2024-01-09,19:20,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4700247,2025-04-14,13:35,BROOKLYN,M,Backing Unsafely,Box Truck
+4700248,2024-06-02,11:10,STATEN ISLAND,F,Driver Inattention/Distraction,Sedan
+4700249,2025-08-05,15:55,MANHATTAN,M,Turning Improperly,Sedan
+4700250,2024-09-23,07:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700251,2025-11-12,14:20,BROOKLYN,M,Following Too Closely,Sedan
+4700252,2024-04-18,17:40,QUEENS,M,Unsafe Speed,SUV
+4700253,2025-03-29,11:05,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+4700254,2024-12-05,09:30,BRONX,F,Failure to Yield Right-of-Way,SUV
+4700255,2025-07-16,21:15,BROOKLYN,M,Alcohol Involvement,Sedan
+4700256,2024-06-25,13:50,QUEENS,F,Driver Inattention/Distraction,Sedan
+4700257,2025-09-08,16:45,MANHATTAN,M,Traffic Control Disregarded,Taxi
+4700258,2024-02-14,08:20,BROOKLYN,M,Backing Unsafely,SUV
+4700259,2025-10-02,12:35,BRONX,M,Driver Inattention/Distraction,Sedan
+4700260,2024-11-20,19:10,QUEENS,M,Following Too Closely,Sedan
+4700261,2025-01-24,07:55,BROOKLYN,F,Turning Improperly,SUV
+4700262,2024-05-19,15:20,MANHATTAN,M,Driver Inattention/Distraction,Bus
+4700263,2025-04-05,18:00,QUEENS,M,Unsafe Lane Changing,Sedan
+4700264,2024-08-12,10:15,BROOKLYN,M,Driver Inattention/Distraction,E-Bike
+4700265,2025-08-27,13:40,BRONX,M,Passing or Lane Usage Improper,Sedan
+4700266,2024-03-09,16:55,BROOKLYN,M,Failure to Yield Right-of-Way,SUV
+4700267,2025-02-18,09:10,STATEN ISLAND,M,Driver Inattention/Distraction,Sedan
+4700268,2024-10-30,20:30,MANHATTAN,M,Unsafe Speed,Taxi
+4700269,2025-06-12,11:45,QUEENS,M,Driver Inattention/Distraction,SUV
+4700270,2024-07-14,14:25,BROOKLYN,F,Following Too Closely,Sedan
+4700271,2025-12-20,17:15,MANHATTAN,M,Failure to Yield Right-of-Way,Sedan
+4700272,2024-01-05,10:50,QUEENS,F,Driver Inattention/Distraction,SUV
+4700273,2025-03-14,08:05,BROOKLYN,M,Backing Unsafely,Sedan
+4700274,2024-09-28,15:35,BRONX,M,Driver Inattention/Distraction,Sedan
+4700275,2025-05-22,12:20,QUEENS,M,Following Too Closely,SUV
+4700276,2024-12-15,19:40,BROOKLYN,M,Turning Improperly,Sedan
+4700277,2025-08-01,16:00,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700278,2024-04-10,07:30,QUEENS,M,Unsafe Speed,SUV
+4700279,2025-02-02,11:15,BROOKLYN,F,Driver Inattention/Distraction,Sedan
+4700280,2024-11-14,14:50,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4700281,2025-09-15,08:35,QUEENS,M,Driver Inattention/Distraction,SUV
+4700282,2024-06-08,13:20,BROOKLYN,M,Following Too Closely,Sedan
+4700283,2025-04-25,17:55,MANHATTAN,M,Unsafe Lane Changing,Sedan
+4700284,2024-02-28,10:10,STATEN ISLAND,F,Driver Inattention/Distraction,SUV
+4700285,2025-10-14,15:45,QUEENS,M,Failure to Yield Right-of-Way,Sedan
+4700286,2024-08-19,12:05,BROOKLYN,M,Driver Inattention/Distraction,SUV
+4700287,2025-11-30,22:15,MANHATTAN,M,Alcohol Involvement,Taxi
+4700288,2024-05-07,09:40,QUEENS,F,Backing Unsafely,Sedan
+4700289,2025-01-18,14:10,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4700290,2024-03-27,11:55,BRONX,M,Following Too Closely,SUV
+4700291,2025-07-04,19:30,QUEENS,M,Unsafe Speed,Sedan
+4700292,2024-12-02,08:15,BROOKLYN,F,Driver Inattention/Distraction,SUV
+4700293,2025-03-22,13:50,MANHATTAN,M,Turning Improperly,Sedan
+4700294,2024-09-12,16:20,QUEENS,M,Driver Inattention/Distraction,SUV
+4700295,2025-06-28,10:45,BROOKLYN,M,Failure to Yield Right-of-Way,Sedan
+4700296,2024-01-30,15:10,BRONX,M,Driver Inattention/Distraction,Sedan
+4700297,2025-08-12,07:35,QUEENS,M,Following Too Closely,SUV
+4700298,2024-10-14,12:25,BROOKLYN,M,Unsafe Lane Changing,Sedan
+4700299,2025-11-08,18:40,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+4700300,2024-04-24,11:15,STATEN ISLAND,M,Backing Unsafely,Sedan

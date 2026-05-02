@@ -1,0 +1,301 @@
+COLLISION_ID,CRASH DATE,CRASH TIME,BOROUGH,DRIVER_SEX,CONTRIBUTING_FACTOR_1,VEHICLE_TYPE
+202400001,10/16/2025,03:00,MANHATTAN,M,Backing Unsafely,Van
+202400002,11/23/2025,23:40,BROOKLYN,M,Driver Inattention/Distraction,Taxi
+202400003,08/11/2024,07:40,QUEENS,M,Pavement Slippery,Tractor Truck
+202400004,08/13/2024,14:45,BROOKLYN,F,Passing or Lane Usage Improper,Tractor Truck
+202400005,12/14/2024,08:10,BROOKLYN,F,Traffic Control Disregarded,Taxi
+202400006,01/24/2025,03:25,BRONX,M,Unsafe Speed,Convertible
+202400007,07/03/2025,03:30,BROOKLYN,M,Oversized Vehicle,Bus
+202400008,08/14/2025,06:55,BROOKLYN,M,Outside Car Distraction,Taxi
+202400009,08/26/2024,03:30,BROOKLYN,M,Aggressive Driving/Road Rage,E-Bike
+202400010,01/14/2025,11:15,MANHATTAN,M,Failure to Yield Right-of-Way,Beverage Truck
+202400011,10/12/2025,05:40,MANHATTAN,M,Prescription Medication,E-Scooter
+202400012,10/17/2025,22:40,BROOKLYN,M,Unsafe Speed,Station Wagon/Sport Utility Vehicle
+202400013,02/02/2024,10:30,BROOKLYN,M,Traffic Control Device Improper/Non-Working,Box Truck
+202400014,08/05/2024,20:35,QUEENS,F,Other Vehicular,Pick-up Truck
+202400015,09/28/2024,04:15,MANHATTAN,M,Traffic Control Device Improper/Non-Working,Tractor Truck
+202400016,08/20/2025,12:25,BROOKLYN,F,Driver Inexperience,Garbage or Refuse
+202400017,04/03/2024,01:05,BROOKLYN,M,View Obstructed/Limited,Beverage Truck
+202400018,03/06/2024,12:30,QUEENS,M,Fatigued/Drowsy,Flat Bed
+202400019,01/12/2024,21:55,BROOKLYN,F,Fatigued/Drowsy,Box Truck
+202400020,04/24/2024,09:30,BROOKLYN,M,Fatigued/Drowsy,Dump Truck
+202400021,07/01/2024,16:05,BRONX,M,Driver Inexperience,Beverage Truck
+202400022,07/22/2024,04:25,MANHATTAN,M,Driver Inexperience,Sedan
+202400023,09/05/2025,10:35,BROOKLYN,F,Outside Car Distraction,Station Wagon/Sport Utility Vehicle
+202400024,02/29/2024,07:45,BRONX,M,Following Too Closely,Taxi
+202400025,06/29/2025,04:10,MANHATTAN,F,Passing or Lane Usage Improper,E-Scooter
+202400026,06/24/2025,19:30,STATEN ISLAND,F,Turning Improperly,Bike
+202400027,02/12/2025,21:50,QUEENS,F,Other Vehicular,Van
+202400028,09/10/2024,07:05,BROOKLYN,M,Alcohol Involvement,Chassis Cab
+202400029,08/13/2024,00:05,MANHATTAN,M,Failure to Yield Right-of-Way,SUV
+202400030,12/04/2024,02:40,BROOKLYN,M,Turning Improperly,Flat Bed
+202400031,05/15/2024,23:45,QUEENS,M,Following Too Closely,Tractor Truck
+202400032,07/13/2024,03:05,MANHATTAN,M,View Obstructed/Limited,Convertible
+202400033,02/25/2024,21:50,STATEN ISLAND,M,Prescription Medication,Box Truck
+202400034,04/21/2024,07:15,BROOKLYN,M,View Obstructed/Limited,E-Bike
+202400035,10/12/2024,14:15,BRONX,M,Pavement Slippery,Van
+202400036,02/21/2024,20:40,BRONX,F,Alcohol Involvement,E-Bike
+202400037,02/20/2025,15:35,BROOKLYN,M,Unsafe Speed,E-Bike
+202400038,01/23/2025,00:30,BROOKLYN,F,Other Vehicular,Bike
+202400039,03/09/2025,22:55,STATEN ISLAND,M,Following Too Closely,Pick-up Truck
+202400040,07/13/2024,09:15,STATEN ISLAND,M,Pavement Slippery,SUV
+202400041,11/17/2024,01:00,QUEENS,M,Driver Inexperience,E-Bike
+202400042,02/28/2024,16:05,BRONX,M,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle
+202400043,02/17/2025,03:45,BROOKLYN,M,Oversized Vehicle,Taxi
+202400044,03/05/2025,21:45,QUEENS,M,Fatigued/Drowsy,Motorcycle
+202400045,11/16/2025,22:25,BROOKLYN,M,Outside Car Distraction,Convertible
+202400046,11/19/2024,02:00,QUEENS,F,Traffic Control Disregarded,Taxi
+202400047,07/04/2025,06:40,BROOKLYN,F,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle
+202400048,01/13/2025,09:10,QUEENS,M,Outside Car Distraction,Beverage Truck
+202400049,10/31/2025,16:00,MANHATTAN,M,Traffic Control Disregarded,Pick-up Truck
+202400050,09/27/2024,03:05,MANHATTAN,M,Outside Car Distraction,Beverage Truck
+202400051,08/03/2024,22:25,BROOKLYN,M,Fatigued/Drowsy,Dump Truck
+202400052,05/15/2025,08:00,BROOKLYN,M,Fatigued/Drowsy,SUV
+202400053,01/04/2024,10:10,MANHATTAN,M,Other Vehicular,Flat Bed
+202400054,12/23/2025,13:40,BROOKLYN,M,Backing Unsafely,Flat Bed
+202400055,02/06/2024,11:45,QUEENS,M,Unsafe Speed,Bike
+202400056,01/08/2025,01:25,BROOKLYN,M,Traffic Control Disregarded,Bus
+202400057,07/27/2025,13:45,MANHATTAN,F,Alcohol Involvement,E-Bike
+202400058,06/30/2024,13:00,BROOKLYN,F,View Obstructed/Limited,Station Wagon/Sport Utility Vehicle
+202400059,09/30/2024,05:55,BROOKLYN,F,Following Too Closely,Station Wagon/Sport Utility Vehicle
+202400060,07/23/2024,14:25,BROOKLYN,F,Alcohol Involvement,Station Wagon/Sport Utility Vehicle
+202400061,01/25/2024,21:15,QUEENS,M,Failure to Yield Right-of-Way,E-Scooter
+202400062,12/25/2024,20:40,QUEENS,F,Pavement Slippery,Box Truck
+202400063,01/29/2024,03:20,BROOKLYN,F,Fatigued/Drowsy,SUV
+202400064,04/21/2024,19:30,BROOKLYN,F,View Obstructed/Limited,Beverage Truck
+202400065,06/07/2025,03:30,BRONX,M,Unsafe Speed,Tractor Truck
+202400066,01/02/2024,16:40,MANHATTAN,F,Turning Improperly,Bus
+202400067,03/17/2025,02:50,BRONX,M,Traffic Control Disregarded,Bike
+202400068,06/03/2025,09:50,QUEENS,M,Outside Car Distraction,Flat Bed
+202400069,05/10/2024,06:30,MANHATTAN,M,Passing or Lane Usage Improper,Beverage Truck
+202400070,08/05/2025,09:30,QUEENS,M,Outside Car Distraction,Motorcycle
+202400071,03/16/2025,18:45,MANHATTAN,M,Other Vehicular,Motorcycle
+202400072,06/07/2025,15:55,BROOKLYN,M,Driver Inexperience,Beverage Truck
+202400073,12/09/2024,02:15,MANHATTAN,M,Turning Improperly,Pick-up Truck
+202400074,01/26/2024,01:15,STATEN ISLAND,M,Failure to Yield Right-of-Way,Convertible
+202400075,02/28/2025,20:45,BROOKLYN,M,Following Too Closely,Ambulance
+202400076,09/06/2024,04:50,MANHATTAN,F,Traffic Control Disregarded,Tractor Truck
+202400077,08/12/2024,05:55,QUEENS,M,Alcohol Involvement,Van
+202400078,04/12/2025,04:35,MANHATTAN,F,Oversized Vehicle,Box Truck
+202400079,03/29/2025,19:55,BRONX,M,Pavement Slippery,Convertible
+202400080,06/11/2024,23:35,QUEENS,M,Fatigued/Drowsy,Dump Truck
+202400081,05/11/2025,20:15,BROOKLYN,M,Outside Car Distraction,Station Wagon/Sport Utility Vehicle
+202400082,10/05/2024,10:25,BRONX,M,Backing Unsafely,Station Wagon/Sport Utility Vehicle
+202400083,01/27/2025,22:10,MANHATTAN,M,View Obstructed/Limited,Box Truck
+202400084,07/09/2025,14:30,BROOKLYN,F,Prescription Medication,Chassis Cab
+202400085,12/13/2025,00:45,QUEENS,M,Aggressive Driving/Road Rage,Bike
+202400086,02/03/2025,13:40,MANHATTAN,M,Oversized Vehicle,Station Wagon/Sport Utility Vehicle
+202400087,05/14/2025,07:20,QUEENS,M,Lost Consciousness,Ambulance
+202400088,06/18/2024,14:10,STATEN ISLAND,M,Prescription Medication,Chassis Cab
+202400089,07/31/2025,21:00,BROOKLYN,M,Other Vehicular,E-Bike
+202400090,02/21/2024,08:30,BROOKLYN,M,Lost Consciousness,Ambulance
+202400091,10/11/2024,13:20,BRONX,M,Pavement Slippery,SUV
+202400092,12/24/2024,07:50,BROOKLYN,F,Unsafe Speed,Sedan
+202400093,09/10/2024,06:00,MANHATTAN,M,Following Too Closely,Van
+202400094,07/31/2025,06:35,MANHATTAN,M,Passing or Lane Usage Improper,Beverage Truck
+202400095,09/13/2025,23:55,BROOKLYN,F,Outside Car Distraction,Van
+202400096,08/15/2025,00:20,QUEENS,F,Prescription Medication,Ambulance
+202400097,07/22/2024,02:45,MANHATTAN,M,Traffic Control Disregarded,Bike
+202400098,12/01/2025,19:05,MANHATTAN,M,Unsafe Speed,Bus
+202400099,06/29/2025,13:50,QUEENS,M,Lost Consciousness,Sedan
+202400100,03/06/2025,15:05,QUEENS,M,Other Vehicular,Pick-up Truck
+202400101,03/21/2025,05:55,QUEENS,M,Oversized Vehicle,Flat Bed
+202400102,05/10/2025,14:30,BRONX,M,Lost Consciousness,Station Wagon/Sport Utility Vehicle
+202400103,03/29/2024,08:35,BROOKLYN,M,Oversized Vehicle,Ambulance
+202400104,12/10/2024,00:35,BRONX,M,Turning Improperly,Bus
+202400105,09/21/2024,10:20,BRONX,M,Fatigued/Drowsy,Flat Bed
+202400106,01/11/2024,16:15,BROOKLYN,M,Following Too Closely,Flat Bed
+202400107,09/03/2024,22:35,MANHATTAN,M,Driver Inattention/Distraction,Taxi
+202400108,10/28/2024,07:30,MANHATTAN,M,Traffic Control Device Improper/Non-Working,Bus
+202400109,04/29/2025,17:40,BROOKLYN,F,Pavement Slippery,Box Truck
+202400110,12/26/2024,22:35,BROOKLYN,M,Traffic Control Disregarded,Motorcycle
+202400111,11/19/2024,03:55,QUEENS,F,Passing or Lane Usage Improper,Motorcycle
+202400112,08/09/2024,23:35,BROOKLYN,M,Driver Inexperience,Beverage Truck
+202400113,10/16/2024,03:15,BROOKLYN,M,Outside Car Distraction,Sedan
+202400114,12/26/2025,17:10,BROOKLYN,F,Pavement Slippery,Bike
+202400115,12/15/2025,04:50,BRONX,M,Driver Inattention/Distraction,Chassis Cab
+202400116,10/18/2024,15:35,QUEENS,M,Unsafe Speed,E-Scooter
+202400117,05/04/2025,03:05,QUEENS,M,Unsafe Speed,Pick-up Truck
+202400118,06/01/2024,18:20,BROOKLYN,M,Pavement Slippery,Tractor Truck
+202400119,09/12/2025,19:45,BROOKLYN,M,Other Vehicular,Convertible
+202400120,10/31/2024,18:30,BROOKLYN,M,Oversized Vehicle,Van
+202400121,07/31/2024,20:15,BROOKLYN,M,Alcohol Involvement,E-Bike
+202400122,07/19/2025,02:10,BROOKLYN,M,Oversized Vehicle,Garbage or Refuse
+202400123,10/25/2024,01:15,BROOKLYN,M,Other Vehicular,Taxi
+202400124,12/04/2025,07:20,MANHATTAN,M,Turning Improperly,Tractor Truck
+202400125,04/27/2024,17:15,MANHATTAN,F,Backing Unsafely,Taxi
+202400126,03/02/2024,05:20,QUEENS,F,Outside Car Distraction,Convertible
+202400127,05/07/2024,14:55,BROOKLYN,M,Fatigued/Drowsy,Dump Truck
+202400128,07/06/2025,15:35,BROOKLYN,M,View Obstructed/Limited,Box Truck
+202400129,09/10/2025,08:00,BROOKLYN,F,Traffic Control Device Improper/Non-Working,Chassis Cab
+202400130,01/22/2024,21:20,QUEENS,F,Passing or Lane Usage Improper,Garbage or Refuse
+202400131,06/15/2025,20:35,BRONX,M,Traffic Control Device Improper/Non-Working,Tractor Truck
+202400132,10/12/2025,15:05,QUEENS,M,Lost Consciousness,Van
+202400133,06/13/2024,10:30,MANHATTAN,M,Prescription Medication,Flat Bed
+202400134,02/07/2024,14:05,BROOKLYN,M,Prescription Medication,Dump Truck
+202400135,01/02/2024,21:40,QUEENS,M,Driver Inexperience,Bus
+202400136,09/29/2025,15:50,QUEENS,M,Fatigued/Drowsy,Flat Bed
+202400137,05/14/2024,09:35,BRONX,M,Driver Inattention/Distraction,Beverage Truck
+202400138,09/02/2024,22:10,BROOKLYN,M,View Obstructed/Limited,Taxi
+202400139,08/18/2024,03:35,BRONX,M,Backing Unsafely,Garbage or Refuse
+202400140,10/25/2024,16:55,BROOKLYN,F,Following Too Closely,Station Wagon/Sport Utility Vehicle
+202400141,04/12/2025,17:10,QUEENS,F,Driver Inexperience,Pick-up Truck
+202400142,03/12/2024,08:30,BROOKLYN,F,Fatigued/Drowsy,Sedan
+202400143,10/16/2024,23:20,BRONX,M,Following Too Closely,Pick-up Truck
+202400144,04/02/2025,17:35,BROOKLYN,M,Pavement Slippery,Ambulance
+202400145,04/11/2025,10:15,STATEN ISLAND,M,Prescription Medication,Station Wagon/Sport Utility Vehicle
+202400146,02/24/2025,01:25,MANHATTAN,M,Prescription Medication,Ambulance
+202400147,11/10/2025,20:10,QUEENS,M,Driver Inexperience,Chassis Cab
+202400148,12/05/2024,03:35,BROOKLYN,F,Driver Inattention/Distraction,Pick-up Truck
+202400149,02/23/2025,20:10,BROOKLYN,F,Fatigued/Drowsy,Box Truck
+202400150,09/30/2025,22:30,MANHATTAN,F,Pavement Slippery,Ambulance
+202500001,11/20/2024,20:55,BRONX,M,Pavement Slippery,SUV
+202500002,09/24/2025,02:15,MANHATTAN,F,Alcohol Involvement,Taxi
+202500003,03/20/2025,03:50,MANHATTAN,M,Passing or Lane Usage Improper,Bike
+202500004,01/30/2024,01:25,MANHATTAN,M,Aggressive Driving/Road Rage,Tractor Truck
+202500005,05/29/2024,07:40,QUEENS,M,Passing or Lane Usage Improper,E-Bike
+202500006,06/28/2024,02:45,BRONX,M,Alcohol Involvement,Garbage or Refuse
+202500007,08/20/2025,04:15,QUEENS,M,Fatigued/Drowsy,Sedan
+202500008,04/21/2025,09:50,QUEENS,M,Aggressive Driving/Road Rage,Chassis Cab
+202500009,11/02/2024,20:30,MANHATTAN,M,Outside Car Distraction,Motorcycle
+202500010,01/28/2025,15:05,BROOKLYN,M,Traffic Control Device Improper/Non-Working,Bike
+202500011,12/17/2025,09:00,STATEN ISLAND,F,Fatigued/Drowsy,Sedan
+202500012,08/02/2025,21:55,STATEN ISLAND,F,Following Too Closely,Bike
+202500013,08/23/2024,19:25,BROOKLYN,M,Fatigued/Drowsy,Pick-up Truck
+202500014,10/05/2025,03:50,MANHATTAN,M,Other Vehicular,SUV
+202500015,08/16/2025,11:55,BROOKLYN,F,Lost Consciousness,Tractor Truck
+202500016,06/28/2024,06:10,MANHATTAN,F,Aggressive Driving/Road Rage,Dump Truck
+202500017,05/28/2025,08:10,BROOKLYN,F,Following Too Closely,Bike
+202500018,12/12/2024,03:35,STATEN ISLAND,M,Alcohol Involvement,Ambulance
+202500019,07/24/2025,11:05,MANHATTAN,M,Pavement Slippery,Van
+202500020,04/10/2025,11:50,MANHATTAN,M,Prescription Medication,Bus
+202500021,04/20/2024,21:15,QUEENS,M,Pavement Slippery,Box Truck
+202500022,09/16/2025,07:50,BROOKLYN,F,Outside Car Distraction,Tractor Truck
+202500023,04/29/2024,04:00,BRONX,M,Following Too Closely,Van
+202500024,04/09/2024,07:40,BROOKLYN,M,Pavement Slippery,Tractor Truck
+202500025,08/24/2025,23:55,BROOKLYN,M,Traffic Control Disregarded,Garbage or Refuse
+202500026,09/22/2025,13:20,BROOKLYN,M,Other Vehicular,Convertible
+202500027,08/29/2024,11:05,STATEN ISLAND,M,Aggressive Driving/Road Rage,SUV
+202500028,02/11/2025,08:15,STATEN ISLAND,F,Other Vehicular,Taxi
+202500029,11/09/2025,06:50,MANHATTAN,F,Unsafe Speed,Box Truck
+202500030,09/06/2024,04:45,BROOKLYN,F,Pavement Slippery,Motorcycle
+202500031,08/23/2025,06:15,BROOKLYN,M,Oversized Vehicle,Sedan
+202500032,10/10/2024,04:10,QUEENS,F,Traffic Control Disregarded,Sedan
+202500033,05/14/2024,00:25,MANHATTAN,M,Lost Consciousness,Sedan
+202500034,06/27/2024,08:00,BROOKLYN,M,Traffic Control Disregarded,Taxi
+202500035,05/02/2025,14:25,QUEENS,M,Driver Inexperience,Station Wagon/Sport Utility Vehicle
+202500036,09/21/2025,01:55,MANHATTAN,F,Driver Inexperience,Bike
+202500037,04/14/2025,20:00,BROOKLYN,M,Prescription Medication,Tractor Truck
+202500038,12/03/2025,03:35,MANHATTAN,M,Failure to Yield Right-of-Way,Box Truck
+202500039,09/14/2025,04:05,BROOKLYN,M,Traffic Control Device Improper/Non-Working,Flat Bed
+202500040,12/30/2025,10:30,STATEN ISLAND,M,Other Vehicular,Dump Truck
+202500041,09/11/2025,13:05,MANHATTAN,M,Pavement Slippery,Motorcycle
+202500042,03/16/2025,14:15,QUEENS,F,Prescription Medication,Tractor Truck
+202500043,04/07/2024,10:30,BROOKLYN,M,Backing Unsafely,Garbage or Refuse
+202500044,03/09/2024,02:05,BROOKLYN,M,Aggressive Driving/Road Rage,Pick-up Truck
+202500045,07/23/2025,01:45,BRONX,M,Traffic Control Disregarded,Tractor Truck
+202500046,12/28/2024,21:30,BRONX,M,Outside Car Distraction,Beverage Truck
+202500047,11/15/2024,11:05,QUEENS,M,Following Too Closely,Station Wagon/Sport Utility Vehicle
+202500048,04/20/2024,11:40,QUEENS,F,Traffic Control Device Improper/Non-Working,Station Wagon/Sport Utility Vehicle
+202500049,03/15/2025,17:45,QUEENS,M,Driver Inattention/Distraction,Beverage Truck
+202500050,11/04/2025,22:20,BROOKLYN,M,Outside Car Distraction,Box Truck
+202500051,12/25/2024,00:10,BRONX,M,Prescription Medication,Taxi
+202500052,05/25/2024,23:50,STATEN ISLAND,M,Driver Inexperience,Motorcycle
+202500053,01/20/2025,13:35,BROOKLYN,M,Lost Consciousness,Chassis Cab
+202500054,09/02/2025,02:00,BROOKLYN,M,Unsafe Speed,Taxi
+202500055,10/05/2024,14:50,QUEENS,M,View Obstructed/Limited,E-Scooter
+202500056,08/08/2024,16:05,BROOKLYN,M,Traffic Control Device Improper/Non-Working,Garbage or Refuse
+202500057,06/23/2025,21:20,BROOKLYN,M,Oversized Vehicle,SUV
+202500058,01/08/2024,06:20,BRONX,F,Fatigued/Drowsy,Bike
+202500059,12/01/2024,03:00,QUEENS,M,Backing Unsafely,Ambulance
+202500060,06/29/2025,22:15,QUEENS,F,Aggressive Driving/Road Rage,Taxi
+202500061,02/10/2025,23:00,QUEENS,M,Failure to Yield Right-of-Way,Box Truck
+202500062,08/12/2025,13:45,QUEENS,M,Outside Car Distraction,Van
+202500063,02/18/2025,00:25,BROOKLYN,F,Other Vehicular,Bus
+202500064,03/31/2024,13:05,BROOKLYN,M,Driver Inexperience,Taxi
+202500065,02/09/2025,09:55,BROOKLYN,M,Passing or Lane Usage Improper,Taxi
+202500066,06/06/2025,20:05,QUEENS,M,Aggressive Driving/Road Rage,Bus
+202500067,10/22/2025,04:15,BROOKLYN,M,Passing or Lane Usage Improper,Beverage Truck
+202500068,06/05/2024,20:05,BROOKLYN,F,Following Too Closely,Convertible
+202500069,07/31/2025,18:35,MANHATTAN,F,Oversized Vehicle,Box Truck
+202500070,10/04/2025,10:10,QUEENS,M,Outside Car Distraction,E-Scooter
+202500071,08/28/2025,01:25,QUEENS,M,Other Vehicular,SUV
+202500072,02/28/2024,11:20,BROOKLYN,F,Failure to Yield Right-of-Way,Beverage Truck
+202500073,08/31/2025,16:30,QUEENS,M,Unsafe Speed,Convertible
+202500074,08/08/2025,20:15,BROOKLYN,M,Backing Unsafely,SUV
+202500075,04/06/2025,03:25,STATEN ISLAND,M,Passing or Lane Usage Improper,SUV
+202500076,09/10/2024,22:35,STATEN ISLAND,M,Oversized Vehicle,E-Bike
+202500077,01/07/2025,11:20,QUEENS,F,Oversized Vehicle,SUV
+202500078,10/08/2025,20:25,BROOKLYN,M,Prescription Medication,Bike
+202500079,09/15/2024,23:50,STATEN ISLAND,M,Backing Unsafely,Box Truck
+202500080,03/24/2024,18:50,BROOKLYN,M,Prescription Medication,Pick-up Truck
+202500081,09/01/2025,22:05,BROOKLYN,M,Lost Consciousness,Pick-up Truck
+202500082,11/17/2025,22:55,STATEN ISLAND,F,Failure to Yield Right-of-Way,Tractor Truck
+202500083,06/04/2025,11:00,QUEENS,M,Turning Improperly,Box Truck
+202500084,05/12/2025,06:15,STATEN ISLAND,M,Outside Car Distraction,Van
+202500085,06/03/2025,17:55,BRONX,M,Lost Consciousness,Beverage Truck
+202500086,05/14/2024,19:30,BROOKLYN,M,Oversized Vehicle,E-Bike
+202500087,03/24/2025,01:30,QUEENS,M,Other Vehicular,Beverage Truck
+202500088,10/18/2024,23:35,BROOKLYN,M,Following Too Closely,Motorcycle
+202500089,01/11/2025,21:45,STATEN ISLAND,M,Outside Car Distraction,Ambulance
+202500090,05/29/2025,16:30,STATEN ISLAND,F,Oversized Vehicle,Pick-up Truck
+202500091,09/13/2024,01:50,QUEENS,M,Traffic Control Disregarded,Dump Truck
+202500092,05/07/2024,09:05,MANHATTAN,M,Driver Inexperience,Pick-up Truck
+202500093,03/23/2025,02:15,BRONX,F,Driver Inattention/Distraction,Tractor Truck
+202500094,02/24/2024,12:40,QUEENS,M,Failure to Yield Right-of-Way,Bus
+202500095,08/17/2024,00:25,BRONX,F,Lost Consciousness,Pick-up Truck
+202500096,05/20/2024,01:20,BRONX,M,Backing Unsafely,Garbage or Refuse
+202500097,04/04/2025,19:00,BRONX,M,Turning Improperly,Pick-up Truck
+202500098,07/15/2025,23:45,QUEENS,M,Outside Car Distraction,Station Wagon/Sport Utility Vehicle
+202500099,11/04/2024,03:00,BROOKLYN,M,Oversized Vehicle,Convertible
+202500100,03/05/2024,03:35,QUEENS,M,Driver Inexperience,Chassis Cab
+202500101,09/04/2024,22:10,BROOKLYN,M,Aggressive Driving/Road Rage,Station Wagon/Sport Utility Vehicle
+202500102,08/07/2025,13:10,MANHATTAN,M,Aggressive Driving/Road Rage,Taxi
+202500103,06/22/2025,17:40,MANHATTAN,M,Driver Inattention/Distraction,Ambulance
+202500104,04/26/2025,01:50,QUEENS,M,Driver Inattention/Distraction,Bus
+202500105,03/10/2024,11:15,MANHATTAN,M,Traffic Control Device Improper/Non-Working,Box Truck
+202500106,05/16/2024,01:25,QUEENS,F,Passing or Lane Usage Improper,Convertible
+202500107,12/13/2025,15:50,BROOKLYN,M,Other Vehicular,SUV
+202500108,10/27/2024,06:00,MANHATTAN,F,Lost Consciousness,Bike
+202500109,06/11/2025,12:40,QUEENS,M,Turning Improperly,Bike
+202500110,12/31/2024,01:50,BROOKLYN,M,Aggressive Driving/Road Rage,Tractor Truck
+202500111,02/13/2025,23:35,BRONX,M,Passing or Lane Usage Improper,Garbage or Refuse
+202500112,12/09/2025,15:25,BRONX,M,Failure to Yield Right-of-Way,Tractor Truck
+202500113,03/21/2024,13:45,STATEN ISLAND,M,Outside Car Distraction,Box Truck
+202500114,04/15/2024,02:25,MANHATTAN,M,Oversized Vehicle,Tractor Truck
+202500115,06/19/2024,22:35,BROOKLYN,M,Aggressive Driving/Road Rage,Beverage Truck
+202500116,03/21/2025,08:50,STATEN ISLAND,F,Failure to Yield Right-of-Way,Ambulance
+202500117,01/07/2025,16:55,MANHATTAN,F,Backing Unsafely,Beverage Truck
+202500118,11/25/2025,14:00,BROOKLYN,M,Aggressive Driving/Road Rage,Bus
+202500119,01/27/2025,18:00,QUEENS,M,Aggressive Driving/Road Rage,Bus
+202500120,03/30/2025,02:45,BROOKLYN,M,Lost Consciousness,E-Scooter
+202500121,09/12/2024,03:00,MANHATTAN,M,Prescription Medication,Flat Bed
+202500122,04/30/2024,08:20,MANHATTAN,M,Oversized Vehicle,Bike
+202500123,12/11/2025,15:15,BROOKLYN,F,Other Vehicular,E-Bike
+202500124,12/31/2025,14:05,MANHATTAN,F,Lost Consciousness,Bus
+202500125,12/27/2025,02:40,QUEENS,F,Passing or Lane Usage Improper,E-Bike
+202500126,01/05/2025,16:15,BROOKLYN,M,Backing Unsafely,Station Wagon/Sport Utility Vehicle
+202500127,05/20/2025,00:25,QUEENS,M,Pavement Slippery,Pick-up Truck
+202500128,09/18/2025,02:05,BROOKLYN,F,Following Too Closely,Dump Truck
+202500129,02/24/2025,13:45,BROOKLYN,F,Failure to Yield Right-of-Way,Convertible
+202500130,04/22/2025,21:40,BROOKLYN,F,Pavement Slippery,Chassis Cab
+202500131,07/05/2024,04:30,QUEENS,F,Traffic Control Disregarded,Dump Truck
+202500132,06/05/2024,09:10,BROOKLYN,F,Alcohol Involvement,Bus
+202500133,06/15/2025,09:05,BROOKLYN,M,Pavement Slippery,E-Scooter
+202500134,05/08/2024,20:20,MANHATTAN,M,Passing or Lane Usage Improper,Chassis Cab
+202500135,08/17/2025,04:10,MANHATTAN,M,Oversized Vehicle,Box Truck
+202500136,07/31/2025,01:00,BROOKLYN,F,Traffic Control Device Improper/Non-Working,E-Scooter
+202500137,10/28/2025,06:45,QUEENS,M,Following Too Closely,Flat Bed
+202500138,10/23/2024,20:20,QUEENS,F,Prescription Medication,Bike
+202500139,04/09/2025,02:55,BROOKLYN,M,Following Too Closely,Convertible
+202500140,07/27/2024,10:45,BROOKLYN,F,Lost Consciousness,Bus
+202500141,02/12/2025,04:25,QUEENS,M,Alcohol Involvement,Convertible
+202500142,05/05/2024,08:35,BROOKLYN,M,Outside Car Distraction,Ambulance
+202500143,09/22/2025,13:15,STATEN ISLAND,F,Lost Consciousness,Chassis Cab
+202500144,11/16/2024,06:10,QUEENS,M,Following Too Closely,Bike
+202500145,05/24/2025,00:05,BRONX,M,Alcohol Involvement,Motorcycle
+202500146,08/20/2025,11:00,BROOKLYN,M,Following Too Closely,Bike
+202500147,07/03/2025,00:05,QUEENS,F,Aggressive Driving/Road Rage,Ambulance
+202500148,01/09/2025,01:30,BROOKLYN,M,Aggressive Driving/Road Rage,Flat Bed
+202500149,10/22/2024,02:30,QUEENS,F,Fatigued/Drowsy,Beverage Truck
+202500150,11/27/2025,19:05,BROOKLYN,M,Aggressive Driving/Road Rage,Box Truck

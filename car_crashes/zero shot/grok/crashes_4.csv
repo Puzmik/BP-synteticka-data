@@ -1,0 +1,188 @@
+COLLISION_ID,CRASH DATE,CRASH TIME,BOROUGH,DRIVER_SEX,CONTRIBUTING_FACTOR,VEHICLE_TYPE
+NYC48294710,01/03/2024,14:30,Brooklyn,M,Driver Inattention/Distraction,Sedan
+NYC72910483,01/05/2024,17:45,Queens,F,Failure to Yield Right-of-Way,SUV
+NYC38194720,01/08/2024,08:15,Manhattan,NaN,Unsafe Speed,Station Wagon/Sport Utility Vehicle
+NYC56482019,01/12/2024,22:10,Bronx,M,Backing Unsafely,Pick-up Truck
+NYC19730485,01/15/2024,09:20,Queens,F,Turning Improperly,4 dr sedan
+NYC84029174,01/19/2024,16:50,Brooklyn,M,Passing or Lane Usage Improper,Sedan
+NYC30519472,01/24/2024,07:45,Manhattan,F,Traffic Control Disregarded,SUV
+NYC67293841,01/28/2024,11:10,Queens,M,Other Vehicular,Sedan
+NYC91827364,02/02/2024,18:25,Bronx,NaN,Alcohol Involvement,Van
+NYC45619283,02/06/2024,13:55,Brooklyn,M,Driver Inattention/Distraction,SUV
+NYC81350629,02/11/2024,20:40,Manhattan,F,Unsafe Speed,2 dr sedan
+NYC27491830,02/16/2024,10:05,Queens,M,Failure to Yield Right-of-Way,Taxi
+NYC69037412,02/21/2024,15:30,Staten Island,F,Driver Inattention/Distraction,Sedan
+NYC13579246,02/26/2024,08:50,Bronx,M,Backing Unsafely,Pick-up Truck
+NYC98765432,03/03/2024,19:15,Brooklyn,NaN,Turning Improperly,SUV
+NYC24681357,03/08/2024,12:20,Manhattan,M,Unsafe Speed,Sedan
+NYC36925814,03/14/2024,06:45,Queens,F,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle
+NYC14725836,03/19/2024,21:10,Bronx,M,Passing or Lane Usage Improper,4 dr sedan
+NYC25836914,03/25/2024,09:35,Brooklyn,F,Traffic Control Disregarded,SUV
+NYC74185296,03/30/2024,16:55,Manhattan,NaN,Other Vehicular,Sedan
+NYC85296314,04/04/2024,14:10,Queens,M,Alcohol Involvement,Van
+NYC96374185,04/10/2024,07:20,Bronx,F,Driver Inattention/Distraction,Pick-up Truck
+NYC15926348,04/16/2024,23:45,Brooklyn,M,Unsafe Speed,Sedan
+NYC75395182,04/22/2024,11:30,Manhattan,F,Failure to Yield Right-of-Way,SUV
+NYC48621937,04/28/2024,17:15,Queens,NaN,Backing Unsafely,Box Truck
+NYC95135782,05/03/2024,08:40,Bronx,M,Turning Improperly,Sedan
+NYC35782469,05/09/2024,13:25,Brooklyn,F,Driver Inattention/Distraction,SUV
+NYC62481379,05/15/2024,20:50,Manhattan,M,Unsafe Speed,4 dr sedan
+NYC19283746,05/21/2024,10:15,Queens,F,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle
+NYC38194756,05/27/2024,15:40,Bronx,NaN,Traffic Control Disregarded,Pick-up Truck
+NYC50628471,06/02/2024,18:30,Brooklyn,M,Other Vehicular,Sedan
+NYC74910283,06/08/2024,09:05,Manhattan,F,Alcohol Involvement,SUV
+NYC12837465,06/14/2024,22:20,Queens,M,Driver Inattention/Distraction,Van
+NYC39485712,06/20/2024,07:50,Bronx,F,Unsafe Speed,Sedan
+NYC58392017,06/26/2024,12:35,Brooklyn,NaN,Failure to Yield Right-of-Way,SUV
+NYC67492018,07/02/2024,16:10,Manhattan,M,Backing Unsafely,2 dr sedan
+NYC29183746,07/08/2024,19:45,Queens,F,Turning Improperly,Taxi
+NYC84710293,07/14/2024,11:20,Bronx,M,Driver Inattention/Distraction,Pick-up Truck
+NYC92037461,07/20/2024,08:30,Brooklyn,F,Unsafe Speed,Sedan
+NYC38194720,07/26/2024,14:55,Manhattan,NaN,Passing or Lane Usage Improper,SUV
+NYC56482019,08/01/2024,21:10,Queens,M,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle
+NYC19730485,08/07/2024,10:25,Bronx,F,Other Vehicular,4 dr sedan
+NYC84029174,08/13/2024,17:40,Brooklyn,M,Alcohol Involvement,Sedan
+NYC30519472,08/19/2024,06:50,Manhattan,F,Driver Inattention/Distraction,SUV
+NYC67293841,08/25/2024,13:15,Queens,NaN,Unsafe Speed,Van
+NYC91827364,08/31/2024,20:30,Bronx,M,Failure to Yield Right-of-Way,Pick-up Truck
+NYC45619283,09/06/2024,09:45,Brooklyn,F,Backing Unsafely,Sedan
+NYC81350629,09/12/2024,15:20,Manhattan,M,Turning Improperly,SUV
+NYC27491830,09/18/2024,22:05,Queens,F,Driver Inattention/Distraction,Box Truck
+NYC69037412,09/24/2024,11:35,Bronx,NaN,Unsafe Speed,Sedan
+NYC13579246,09/30/2024,18:50,Brooklyn,M,Passing or Lane Usage Improper,SUV
+NYC98765432,10/06/2024,07:10,Manhattan,F,Traffic Control Disregarded,4 dr sedan
+NYC24681357,10/12/2024,14:25,Queens,M,Other Vehicular,Station Wagon/Sport Utility Vehicle
+NYC36925814,10/18/2024,20:40,Bronx,F,Alcohol Involvement,Pick-up Truck
+NYC14725836,10/24/2024,09:55,Brooklyn,NaN,Driver Inattention/Distraction,Sedan
+NYC25836914,10/30/2024,16:10,Manhattan,M,Unsafe Speed,SUV
+NYC74185296,11/05/2024,23:25,Queens,F,Failure to Yield Right-of-Way,Van
+NYC85296314,11/11/2024,08:30,Bronx,M,Backing Unsafely,Sedan
+NYC96374185,11/17/2024,15:45,Brooklyn,F,Turning Improperly,SUV
+NYC15926348,11/23/2024,22:00,Manhattan,NaN,Driver Inattention/Distraction,2 dr sedan
+NYC75395182,11/29/2024,10:15,Queens,M,Unsafe Speed,Taxi
+NYC48621937,12/05/2024,17:30,Bronx,F,Passing or Lane Usage Improper,Pick-up Truck
+NYC95135782,12/11/2024,06:45,Brooklyn,M,Traffic Control Disregarded,Sedan
+NYC35782469,12/17/2024,13:00,Manhattan,F,Other Vehicular,SUV
+NYC62481379,12/23/2024,20:15,Queens,NaN,Alcohol Involvement,Station Wagon/Sport Utility Vehicle
+NYC19283746,12/29/2024,09:30,Bronx,M,Driver Inattention/Distraction,4 dr sedan
+NYC38194756,01/04/2025,16:45,Brooklyn,F,Unsafe Speed,Sedan
+NYC50628471,01/10/2025,23:00,Manhattan,M,Failure to Yield Right-of-Way,SUV
+NYC74910283,01/16/2025,08:15,Queens,F,Backing Unsafely,Van
+NYC12837465,01/22/2025,15:30,Bronx,NaN,Turning Improperly,Pick-up Truck
+NYC39485712,01/28/2025,22:45,Brooklyn,M,Driver Inattention/Distraction,Sedan
+NYC58392017,02/03/2025,07:00,Manhattan,F,Unsafe Speed,SUV
+NYC67492018,02/09/2025,14:15,Queens,M,Passing or Lane Usage Improper,Box Truck
+NYC29183746,02/15/2025,21:30,Bronx,F,Traffic Control Disregarded,Sedan
+NYC84710293,02/21/2025,10:45,Brooklyn,NaN,Other Vehicular,SUV
+NYC92037461,02/27/2025,18:00,Manhattan,M,Alcohol Involvement,4 dr sedan
+NYC38194720,03/05/2025,06:15,Queens,F,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle
+NYC56482019,03/11/2025,13:30,Bronx,M,Unsafe Speed,Pick-up Truck
+NYC19730485,03/17/2025,20:45,Brooklyn,F,Failure to Yield Right-of-Way,Sedan
+NYC84029174,03/23/2025,09:00,Manhattan,NaN,Backing Unsafely,SUV
+NYC30519472,03/29/2025,16:15,Queens,M,Turning Improperly,Van
+NYC67293841,04/04/2025,23:30,Bronx,F,Driver Inattention/Distraction,Sedan
+NYC91827364,04/10/2025,08:45,Brooklyn,M,Unsafe Speed,SUV
+NYC45619283,04/16/2025,16:00,Manhattan,F,Passing or Lane Usage Improper,2 dr sedan
+NYC81350629,04/22/2025,23:15,Queens,NaN,Traffic Control Disregarded,Taxi
+NYC27491830,04/28/2025,07:30,Bronx,M,Other Vehicular,Pick-up Truck
+NYC69037412,05/04/2025,14:45,Brooklyn,F,Alcohol Involvement,Sedan
+NYC13579246,05/10/2025,22:00,Manhattan,M,Driver Inattention/Distraction,SUV
+NYC98765432,05/16/2025,09:15,Queens,F,Unsafe Speed,Station Wagon/Sport Utility Vehicle
+NYC24681357,05/22/2025,16:30,Bronx,NaN,Failure to Yield Right-of-Way,4 dr sedan
+NYC36925814,05/28/2025,23:45,Brooklyn,M,Backing Unsafely,Sedan
+NYC14725836,06/03/2025,08:00,Manhattan,F,Turning Improperly,SUV
+NYC25836914,06/09/2025,15:15,Queens,M,Driver Inattention/Distraction,Van
+NYC74185296,06/15/2025,22:30,Bronx,F,Unsafe Speed,Pick-up Truck
+NYC85296314,06/21/2025,07:45,Brooklyn,NaN,Passing or Lane Usage Improper,Sedan
+NYC96374185,06/27/2025,15:00,Manhattan,M,Traffic Control Disregarded,SUV
+NYC15926348,07/03/2025,22:15,Queens,F,Other Vehicular,Box Truck
+NYC75395182,07/09/2025,09:30,Bronx,M,Alcohol Involvement,Sedan
+NYC48621937,07/15/2025,16:45,Brooklyn,F,Driver Inattention/Distraction,SUV
+NYC95135782,07/21/2025,00:00,Manhattan,NaN,Unsafe Speed,4 dr sedan
+NYC35782469,07/27/2025,07:15,Queens,M,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle
+NYC62481379,08/02/2025,14:30,Bronx,F,Backing Unsafely,Pick-up Truck
+NYC19283746,08/08/2025,21:45,Brooklyn,M,Turning Improperly,Sedan
+NYC38194756,08/14/2025,09:00,Manhattan,F,Driver Inattention/Distraction,SUV
+NYC50628471,08/20/2025,16:15,Queens,NaN,Unsafe Speed,Van
+NYC74910283,08/26/2025,23:30,Bronx,M,Passing or Lane Usage Improper,Sedan
+NYC12837465,09/01/2025,08:45,Brooklyn,F,Traffic Control Disregarded,SUV
+NYC39485712,09/07/2025,16:00,Manhattan,M,Other Vehicular,2 dr sedan
+NYC58392017,09/13/2025,23:15,Queens,F,Alcohol Involvement,Taxi
+NYC67492018,09/19/2025,07:30,Bronx,NaN,Driver Inattention/Distraction,Pick-up Truck
+NYC29183746,09/25/2025,14:45,Brooklyn,M,Unsafe Speed,Sedan
+NYC84710293,10/01/2025,22:00,Manhattan,F,Failure to Yield Right-of-Way,SUV
+NYC92037461,10/07/2025,09:15,Queens,M,Backing Unsafely,Station Wagon/Sport Utility Vehicle
+NYC38194720,10/13/2025,16:30,Bronx,F,Turning Improperly,4 dr sedan
+NYC56482019,10/19/2025,23:45,Brooklyn,NaN,Driver Inattention/Distraction,Sedan
+NYC19730485,10/25/2025,08:00,Manhattan,M,Unsafe Speed,SUV
+NYC84029174,10/31/2025,15:15,Queens,F,Passing or Lane Usage Improper,Van
+NYC30519472,11/06/2025,22:30,Bronx,M,Traffic Control Disregarded,Pick-up Truck
+NYC67293841,11/12/2025,07:45,Brooklyn,F,Other Vehicular,Sedan
+NYC91827364,11/18/2025,15:00,Manhattan,NaN,Alcohol Involvement,SUV
+NYC45619283,11/24/2025,22:15,Queens,M,Driver Inattention/Distraction,Box Truck
+NYC81350629,11/30/2025,09:30,Bronx,F,Unsafe Speed,Sedan
+NYC27491830,12/06/2025,16:45,Brooklyn,M,Failure to Yield Right-of-Way,SUV
+NYC69037412,12/12/2025,00:00,Manhattan,F,Backing Unsafely,4 dr sedan
+NYC13579246,12/18/2025,07:15,Queens,NaN,Turning Improperly,Station Wagon/Sport Utility Vehicle
+NYC98765432,12/24/2025,14:30,Bronx,M,Driver Inattention/Distraction,Pick-up Truck
+NYC24681357,01/01/2025,21:45,Brooklyn,F,Unsafe Speed,Sedan
+NYC36925814,01/07/2025,09:00,Manhattan,M,Passing or Lane Usage Improper,SUV
+NYC14725836,01/13/2025,16:15,Queens,F,Traffic Control Disregarded,Van
+NYC25836914,01/19/2025,23:30,Bronx,NaN,Other Vehicular,Sedan
+NYC74185296,01/25/2025,08:45,Brooklyn,M,Alcohol Involvement,SUV
+NYC85296314,01/31/2025,16:00,Manhattan,F,Driver Inattention/Distraction,2 dr sedan
+NYC96374185,02/06/2025,23:15,Queens,M,Unsafe Speed,Taxi
+NYC15926348,02/12/2025,07:30,Bronx,F,Failure to Yield Right-of-Way,Pick-up Truck
+NYC75395182,02/18/2025,14:45,Brooklyn,NaN,Backing Unsafely,Sedan
+NYC48621937,02/24/2025,22:00,Manhattan,M,Turning Improperly,SUV
+NYC95135782,03/02/2025,09:15,Queens,F,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle
+NYC35782469,03/08/2025,16:30,Bronx,M,Unsafe Speed,4 dr sedan
+NYC62481379,03/14/2025,23:45,Brooklyn,F,Passing or Lane Usage Improper,Sedan
+NYC19283746,03/20/2025,08:00,Manhattan,NaN,Traffic Control Disregarded,SUV
+NYC38194756,03/26/2025,15:15,Queens,M,Other Vehicular,Van
+NYC50628471,04/01/2025,22:30,Bronx,F,Alcohol Involvement,Pick-up Truck
+NYC74910283,04/07/2025,07:45,Brooklyn,M,Driver Inattention/Distraction,Sedan
+NYC12837465,04/13/2025,15:00,Manhattan,F,Unsafe Speed,SUV
+NYC39485712,04/19/2025,22:15,Queens,NaN,Failure to Yield Right-of-Way,Box Truck
+NYC58392017,04/25/2025,09:30,Bronx,M,Backing Unsafely,Sedan
+NYC67492018,05/01/2025,16:45,Brooklyn,F,Turning Improperly,SUV
+NYC29183746,05/07/2025,00:00,Manhattan,M,Driver Inattention/Distraction,4 dr sedan
+NYC84710293,05/13/2025,07:15,Queens,F,Unsafe Speed,Station Wagon/Sport Utility Vehicle
+NYC92037461,05/19/2025,14:30,Bronx,NaN,Passing or Lane Usage Improper,Pick-up Truck
+NYC38194720,05/25/2025,21:45,Brooklyn,M,Traffic Control Disregarded,Sedan
+NYC56482019,05/31/2025,09:00,Manhattan,F,Other Vehicular,SUV
+NYC19730485,06/06/2025,16:15,Queens,M,Alcohol Involvement,Van
+NYC84029174,06/12/2025,23:30,Bronx,F,Driver Inattention/Distraction,Sedan
+NYC30519472,06/18/2025,08:45,Brooklyn,M,Unsafe Speed,SUV
+NYC67293841,06/24/2025,16:00,Manhattan,F,Failure to Yield Right-of-Way,2 dr sedan
+NYC91827364,06/30/2025,23:15,Queens,NaN,Backing Unsafely,Taxi
+NYC45619283,07/06/2025,07:30,Bronx,M,Turning Improperly,Pick-up Truck
+NYC81350629,07/12/2025,14:45,Brooklyn,F,Driver Inattention/Distraction,Sedan
+NYC27491830,07/18/2025,22:00,Manhattan,M,Unsafe Speed,SUV
+NYC69037412,07/24/2025,09:15,Queens,F,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle
+NYC13579246,07/30/2025,16:30,Bronx,NaN,Traffic Control Disregarded,4 dr sedan
+NYC98765432,08/05/2025,23:45,Brooklyn,M,Other Vehicular,Sedan
+NYC24681357,08/11/2025,08:00,Manhattan,F,Alcohol Involvement,SUV
+NYC36925814,08/17/2025,15:15,Queens,M,Driver Inattention/Distraction,Van
+NYC14725836,08/23/2025,22:30,Bronx,F,Unsafe Speed,Pick-up Truck
+NYC25836914,08/29/2025,07:45,Brooklyn,M,Failure to Yield Right-of-Way,Sedan
+NYC74185296,09/04/2025,15:00,Manhattan,F,Backing Unsafely,SUV
+NYC85296314,09/10/2025,22:15,Queens,NaN,Turning Improperly,Box Truck
+NYC96374185,09/16/2025,09:30,Bronx,M,Driver Inattention/Distraction,Sedan
+NYC15926348,09/22/2025,16:45,Brooklyn,F,Unsafe Speed,SUV
+NYC75395182,09/28/2025,00:00,Manhattan,M,Passing or Lane Usage Improper,4 dr sedan
+NYC48621937,10/04/2025,07:15,Queens,F,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle
+NYC95135782,10/10/2025,14:30,Bronx,NaN,Other Vehicular,Pick-up Truck
+NYC35782469,10/16/2025,21:45,Brooklyn,M,Alcohol Involvement,Sedan
+NYC62481379,10/22/2025,09:00,Manhattan,F,Driver Inattention/Distraction,SUV
+NYC19283746,10/28/2025,16:15,Queens,M,Unsafe Speed,Van
+NYC38194756,11/03/2025,23:30,Bronx,F,Failure to Yield Right-of-Way,Sedan
+NYC50628471,11/09/2025,08:45,Brooklyn,M,Backing Unsafely,SUV
+NYC74910283,11/15/2025,16:00,Manhattan,F,Turning Improperly,2 dr sedan
+NYC12837465,11/21/2025,23:15,Queens,NaN,Driver Inattention/Distraction,Taxi
+NYC39485712,11/27/2025,07:30,Bronx,M,Unsafe Speed,Pick-up Truck
+NYC58392017,12/03/2025,14:45,Brooklyn,F,Passing or Lane Usage Improper,Sedan
+NYC67492018,12/09/2025,22:00,Manhattan,M,Traffic Control Disregarded,SUV
+NYC29183746,12/15/2025,09:15,Queens,F,Other Vehicular,Station Wagon/Sport Utility Vehicle
+NYC84710293,12/21/2025,16:30,Bronx,NaN,Alcohol Involvement,4 dr sedan
+NYC92037461,12/27/2025,23:45,Brooklyn,M,Driver Inattention/Distraction,Sedan

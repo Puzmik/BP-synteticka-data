@@ -1,0 +1,301 @@
+COLLISION_ID,CRASH DATE,CRASH TIME,BOROUGH,DRIVER_SEX,CONTRIBUTING_FACTOR,VEHICLE_TYPE
+1001,01/03/2024,08:23,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1002,01/05/2024,17:45,Queens,F,Unsafe Speed,SUV
+1003,01/07/2024,09:10,Manhattan,M,Following Too Closely,Taxi
+1004,01/09/2024,14:30,Bronx,M,Failure to Yield Right-of-Way,Sedan
+1005,01/11/2024,07:55,Staten Island,F,Driver Inattention/Distraction,SUV
+1006,01/13/2024,18:20,Brooklyn,M,Unsafe Lane Changing,Pick-up Truck
+1007,01/15/2024,12:40,Queens,NaN,Traffic Control Disregarded,Sedan
+1008,01/17/2024,06:15,Manhattan,M,Driver Inattention/Distraction,Bus
+1009,01/19/2024,21:30,Bronx,F,Unsafe Speed,Sedan
+1010,01/21/2024,16:05,Brooklyn,M,Failure to Yield Right-of-Way,SUV
+1011,01/23/2024,10:50,Queens,M,Driver Inattention/Distraction,Sedan
+1012,01/25/2024,13:25,Manhattan,F,Following Too Closely,Taxi
+1013,01/27/2024,19:00,Bronx,M,Unsafe Lane Changing,Sedan
+1014,01/29/2024,08:45,Staten Island,M,Driver Inattention/Distraction,Pick-up Truck
+1015,02/02/2024,15:35,Brooklyn,F,Unsafe Speed,Sedan
+1016,02/04/2024,07:20,Queens,M,Failure to Yield Right-of-Way,SUV
+1017,02/06/2024,11:10,Manhattan,M,Driver Inattention/Distraction,Sedan
+1018,02/08/2024,16:50,Bronx,NaN,Traffic Control Disregarded,Sedan
+1019,02/10/2024,09:30,Brooklyn,F,Following Too Closely,SUV
+1020,02/12/2024,18:00,Queens,M,Driver Inattention/Distraction,Pick-up Truck
+1021,02/14/2024,13:15,Manhattan,M,Unsafe Lane Changing,Taxi
+1022,02/16/2024,07:40,Bronx,F,Unsafe Speed,Sedan
+1023,02/18/2024,20:25,Staten Island,M,Driver Inattention/Distraction,SUV
+1024,02/20/2024,10:05,Brooklyn,M,Failure to Yield Right-of-Way,Sedan
+1025,02/22/2024,14:55,Queens,F,Following Too Closely,Sedan
+1026,02/24/2024,17:30,Manhattan,M,Driver Inattention/Distraction,Bus
+1027,02/26/2024,08:10,Bronx,M,Unsafe Lane Changing,Sedan
+1028,02/28/2024,12:45,Brooklyn,NaN,Traffic Control Disregarded,SUV
+1029,03/01/2024,19:20,Queens,F,Unsafe Speed,Sedan
+1030,03/03/2024,09:55,Manhattan,M,Driver Inattention/Distraction,Taxi
+1031,03/05/2024,15:10,Bronx,M,Failure to Yield Right-of-Way,Sedan
+1032,03/07/2024,07:35,Staten Island,F,Driver Inattention/Distraction,Pick-up Truck
+1033,03/09/2024,11:50,Brooklyn,M,Following Too Closely,Sedan
+1034,03/11/2024,16:25,Queens,M,Unsafe Lane Changing,SUV
+1035,03/13/2024,20:00,Manhattan,F,Driver Inattention/Distraction,Sedan
+1036,03/15/2024,08:30,Bronx,M,Unsafe Speed,Sedan
+1037,03/17/2024,13:05,Brooklyn,M,Traffic Control Disregarded,Pick-up Truck
+1038,03/19/2024,17:40,Queens,NaN,Driver Inattention/Distraction,Sedan
+1039,03/21/2024,10:15,Manhattan,F,Failure to Yield Right-of-Way,Taxi
+1040,03/23/2024,14:50,Bronx,M,Following Too Closely,Sedan
+1041,03/25/2024,06:25,Staten Island,M,Driver Inattention/Distraction,SUV
+1042,03/27/2024,18:55,Brooklyn,F,Unsafe Lane Changing,Sedan
+1043,03/29/2024,09:20,Queens,M,Unsafe Speed,Sedan
+1044,04/01/2024,15:45,Manhattan,M,Driver Inattention/Distraction,Bus
+1045,04/03/2024,07:10,Bronx,F,Failure to Yield Right-of-Way,Sedan
+1046,04/05/2024,12:35,Brooklyn,M,Following Too Closely,SUV
+1047,04/07/2024,16:00,Queens,M,Traffic Control Disregarded,Sedan
+1048,04/09/2024,19:30,Manhattan,NaN,Driver Inattention/Distraction,Taxi
+1049,04/11/2024,08:55,Bronx,M,Unsafe Speed,Sedan
+1050,04/13/2024,13:20,Staten Island,F,Unsafe Lane Changing,Pick-up Truck
+1051,04/15/2024,17:45,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1052,04/17/2024,10:10,Queens,M,Failure to Yield Right-of-Way,SUV
+1053,04/19/2024,14:35,Manhattan,F,Following Too Closely,Taxi
+1054,04/21/2024,07:00,Bronx,M,Driver Inattention/Distraction,Sedan
+1055,04/23/2024,18:25,Brooklyn,M,Unsafe Speed,Sedan
+1056,04/25/2024,11:50,Queens,NaN,Traffic Control Disregarded,SUV
+1057,04/27/2024,15:15,Manhattan,F,Driver Inattention/Distraction,Sedan
+1058,04/29/2024,09:40,Bronx,M,Unsafe Lane Changing,Pick-up Truck
+1059,05/01/2024,13:05,Staten Island,M,Failure to Yield Right-of-Way,Sedan
+1060,05/03/2024,16:30,Brooklyn,F,Driver Inattention/Distraction,SUV
+1061,05/05/2024,07:55,Queens,M,Following Too Closely,Sedan
+1062,05/07/2024,12:20,Manhattan,M,Unsafe Speed,Taxi
+1063,05/09/2024,17:45,Bronx,F,Driver Inattention/Distraction,Sedan
+1064,05/11/2024,10:10,Brooklyn,M,Traffic Control Disregarded,Sedan
+1065,05/13/2024,14:35,Queens,M,Failure to Yield Right-of-Way,SUV
+1066,05/15/2024,08:00,Manhattan,NaN,Driver Inattention/Distraction,Bus
+1067,05/17/2024,19:25,Bronx,F,Unsafe Lane Changing,Sedan
+1068,05/19/2024,11:50,Staten Island,M,Unsafe Speed,Pick-up Truck
+1069,05/21/2024,15:15,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1070,05/23/2024,06:40,Queens,F,Following Too Closely,SUV
+1071,05/25/2024,13:05,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1072,05/27/2024,17:30,Bronx,M,Driver Inattention/Distraction,Sedan
+1073,05/29/2024,09:55,Brooklyn,F,Unsafe Speed,Sedan
+1074,05/31/2024,14:20,Queens,M,Traffic Control Disregarded,Sedan
+1075,06/02/2024,18:45,Manhattan,M,Unsafe Lane Changing,Taxi
+1076,06/04/2024,08:10,Bronx,NaN,Driver Inattention/Distraction,SUV
+1077,06/06/2024,12:35,Staten Island,F,Failure to Yield Right-of-Way,Sedan
+1078,06/08/2024,16:00,Brooklyn,M,Following Too Closely,Pick-up Truck
+1079,06/10/2024,07:25,Queens,M,Driver Inattention/Distraction,Sedan
+1080,06/12/2024,11:50,Manhattan,F,Unsafe Speed,Taxi
+1081,06/14/2024,15:15,Bronx,M,Traffic Control Disregarded,Sedan
+1082,06/16/2024,19:40,Brooklyn,M,Driver Inattention/Distraction,SUV
+1083,06/18/2024,09:05,Queens,F,Unsafe Lane Changing,Sedan
+1084,06/20/2024,13:30,Manhattan,M,Failure to Yield Right-of-Way,Bus
+1085,06/22/2024,17:55,Bronx,M,Driver Inattention/Distraction,Sedan
+1086,06/24/2024,10:20,Staten Island,NaN,Following Too Closely,SUV
+1087,06/26/2024,14:45,Brooklyn,F,Unsafe Speed,Sedan
+1088,06/28/2024,08:10,Queens,M,Driver Inattention/Distraction,Pick-up Truck
+1089,06/30/2024,18:35,Manhattan,M,Traffic Control Disregarded,Taxi
+1090,07/02/2024,12:00,Bronx,F,Failure to Yield Right-of-Way,Sedan
+1091,07/04/2024,22:30,Brooklyn,M,Unsafe Speed,Sedan
+1092,07/06/2024,09:55,Queens,M,Driver Inattention/Distraction,SUV
+1093,07/08/2024,15:20,Manhattan,F,Unsafe Lane Changing,Taxi
+1094,07/10/2024,07:45,Bronx,M,Following Too Closely,Sedan
+1095,07/12/2024,13:10,Staten Island,M,Driver Inattention/Distraction,Pick-up Truck
+1096,07/14/2024,17:35,Brooklyn,NaN,Traffic Control Disregarded,Sedan
+1097,07/16/2024,10:00,Queens,F,Unsafe Speed,SUV
+1098,07/18/2024,14:25,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1099,07/20/2024,19:50,Bronx,M,Driver Inattention/Distraction,Sedan
+1100,07/22/2024,08:15,Brooklyn,F,Following Too Closely,Sedan
+1101,07/24/2024,12:40,Queens,M,Unsafe Lane Changing,SUV
+1102,07/26/2024,16:05,Manhattan,M,Driver Inattention/Distraction,Bus
+1103,07/28/2024,07:30,Bronx,F,Unsafe Speed,Sedan
+1104,07/30/2024,11:55,Staten Island,M,Traffic Control Disregarded,Pick-up Truck
+1105,08/01/2024,15:20,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1106,08/03/2024,20:45,Queens,NaN,Failure to Yield Right-of-Way,Sedan
+1107,08/05/2024,09:10,Manhattan,F,Following Too Closely,Taxi
+1108,08/07/2024,13:35,Bronx,M,Unsafe Speed,Sedan
+1109,08/09/2024,17:00,Brooklyn,M,Driver Inattention/Distraction,SUV
+1110,08/11/2024,08:25,Queens,F,Unsafe Lane Changing,Sedan
+1111,08/13/2024,14:50,Manhattan,M,Traffic Control Disregarded,Taxi
+1112,08/15/2024,19:15,Bronx,M,Driver Inattention/Distraction,Sedan
+1113,08/17/2024,10:40,Staten Island,F,Failure to Yield Right-of-Way,SUV
+1114,08/19/2024,15:05,Brooklyn,M,Unsafe Speed,Pick-up Truck
+1115,08/21/2024,07:30,Queens,M,Driver Inattention/Distraction,Sedan
+1116,08/23/2024,11:55,Manhattan,NaN,Following Too Closely,Taxi
+1117,08/25/2024,16:20,Bronx,F,Unsafe Lane Changing,Sedan
+1118,08/27/2024,20:45,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1119,08/29/2024,09:10,Queens,M,Traffic Control Disregarded,SUV
+1120,08/31/2024,13:35,Manhattan,F,Unsafe Speed,Taxi
+1121,09/02/2024,17:00,Bronx,M,Driver Inattention/Distraction,Sedan
+1122,09/04/2024,08:25,Staten Island,M,Failure to Yield Right-of-Way,Pick-up Truck
+1123,09/06/2024,12:50,Brooklyn,F,Following Too Closely,Sedan
+1124,09/08/2024,16:15,Queens,M,Unsafe Speed,SUV
+1125,09/10/2024,07:40,Manhattan,M,Driver Inattention/Distraction,Bus
+1126,09/12/2024,14:05,Bronx,NaN,Unsafe Lane Changing,Sedan
+1127,09/14/2024,18:30,Brooklyn,F,Traffic Control Disregarded,Sedan
+1128,09/16/2024,10:55,Queens,M,Driver Inattention/Distraction,SUV
+1129,09/18/2024,15:20,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1130,09/20/2024,07:45,Bronx,F,Unsafe Speed,Sedan
+1131,09/22/2024,13:10,Staten Island,M,Driver Inattention/Distraction,Pick-up Truck
+1132,09/24/2024,17:35,Brooklyn,M,Following Too Closely,Sedan
+1133,09/26/2024,09:00,Queens,F,Unsafe Lane Changing,Sedan
+1134,09/28/2024,14:25,Manhattan,M,Driver Inattention/Distraction,Taxi
+1135,09/30/2024,19:50,Bronx,M,Traffic Control Disregarded,SUV
+1136,10/02/2024,08:15,Brooklyn,NaN,Unsafe Speed,Sedan
+1137,10/04/2024,12:40,Queens,F,Driver Inattention/Distraction,Sedan
+1138,10/06/2024,17:05,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1139,10/08/2024,07:30,Bronx,M,Following Too Closely,Pick-up Truck
+1140,10/10/2024,11:55,Staten Island,F,Driver Inattention/Distraction,SUV
+1141,10/12/2024,16:20,Brooklyn,M,Unsafe Lane Changing,Sedan
+1142,10/14/2024,20:45,Queens,M,Unsafe Speed,Sedan
+1143,10/16/2024,09:10,Manhattan,F,Traffic Control Disregarded,Bus
+1144,10/18/2024,13:35,Bronx,M,Driver Inattention/Distraction,Sedan
+1145,10/20/2024,18:00,Brooklyn,M,Failure to Yield Right-of-Way,SUV
+1146,10/22/2024,08:25,Queens,NaN,Following Too Closely,Sedan
+1147,10/24/2024,14:50,Manhattan,F,Unsafe Speed,Taxi
+1148,10/26/2024,19:15,Bronx,M,Driver Inattention/Distraction,Sedan
+1149,10/28/2024,10:40,Staten Island,M,Unsafe Lane Changing,Pick-up Truck
+1150,10/30/2024,15:05,Brooklyn,F,Traffic Control Disregarded,Sedan
+1151,11/01/2024,07:30,Queens,M,Driver Inattention/Distraction,SUV
+1152,11/03/2024,12:55,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1153,11/05/2024,17:20,Bronx,F,Unsafe Speed,Sedan
+1154,11/07/2024,08:45,Brooklyn,M,Following Too Closely,Sedan
+1155,11/09/2024,13:10,Queens,M,Driver Inattention/Distraction,Pick-up Truck
+1156,11/11/2024,18:35,Manhattan,NaN,Unsafe Lane Changing,Taxi
+1157,11/13/2024,09:00,Bronx,F,Traffic Control Disregarded,Sedan
+1158,11/15/2024,14:25,Staten Island,M,Unsafe Speed,SUV
+1159,11/17/2024,19:50,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1160,11/19/2024,08:15,Queens,F,Failure to Yield Right-of-Way,Sedan
+1161,11/21/2024,12:40,Manhattan,M,Following Too Closely,Taxi
+1162,11/23/2024,17:05,Bronx,M,Driver Inattention/Distraction,Sedan
+1163,11/25/2024,07:30,Brooklyn,F,Unsafe Lane Changing,SUV
+1164,11/27/2024,11:55,Queens,M,Unsafe Speed,Sedan
+1165,11/29/2024,16:20,Manhattan,M,Traffic Control Disregarded,Bus
+1166,12/01/2024,20:45,Bronx,NaN,Driver Inattention/Distraction,Sedan
+1167,12/03/2024,09:10,Staten Island,F,Failure to Yield Right-of-Way,Pick-up Truck
+1168,12/05/2024,13:35,Brooklyn,M,Following Too Closely,Sedan
+1169,12/07/2024,18:00,Queens,M,Unsafe Speed,SUV
+1170,12/09/2024,08:25,Manhattan,F,Driver Inattention/Distraction,Taxi
+1171,12/11/2024,12:50,Bronx,M,Unsafe Lane Changing,Sedan
+1172,12/13/2024,17:15,Brooklyn,M,Traffic Control Disregarded,Sedan
+1173,12/15/2024,07:40,Queens,F,Driver Inattention/Distraction,SUV
+1174,12/17/2024,11:05,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1175,12/19/2024,16:30,Bronx,M,Unsafe Speed,Pick-up Truck
+1176,12/21/2024,20:55,Staten Island,NaN,Following Too Closely,Sedan
+1177,12/23/2024,09:20,Brooklyn,F,Driver Inattention/Distraction,Sedan
+1178,12/24/2024,14:45,Queens,M,Unsafe Lane Changing,SUV
+1179,12/26/2024,19:10,Manhattan,M,Traffic Control Disregarded,Taxi
+1180,12/28/2024,08:35,Bronx,F,Unsafe Speed,Sedan
+1181,12/30/2024,13:00,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1182,01/02/2025,17:25,Queens,M,Failure to Yield Right-of-Way,SUV
+1183,01/04/2025,08:50,Manhattan,F,Following Too Closely,Taxi
+1184,01/06/2025,14:15,Bronx,M,Driver Inattention/Distraction,Sedan
+1185,01/08/2025,19:40,Staten Island,M,Unsafe Speed,Pick-up Truck
+1186,01/10/2025,09:05,Brooklyn,NaN,Unsafe Lane Changing,Sedan
+1187,01/12/2025,13:30,Queens,F,Traffic Control Disregarded,SUV
+1188,01/14/2025,17:55,Manhattan,M,Driver Inattention/Distraction,Bus
+1189,01/16/2025,08:20,Bronx,M,Failure to Yield Right-of-Way,Sedan
+1190,01/18/2025,12:45,Brooklyn,F,Unsafe Speed,Sedan
+1191,01/20/2025,16:10,Queens,M,Following Too Closely,SUV
+1192,01/22/2025,07:35,Manhattan,M,Driver Inattention/Distraction,Taxi
+1193,01/24/2025,11:00,Bronx,F,Unsafe Lane Changing,Sedan
+1194,01/26/2025,15:25,Staten Island,M,Traffic Control Disregarded,Pick-up Truck
+1195,01/28/2025,20:50,Brooklyn,M,Unsafe Speed,Sedan
+1196,01/30/2025,09:15,Queens,NaN,Driver Inattention/Distraction,Sedan
+1197,02/01/2025,13:40,Manhattan,F,Failure to Yield Right-of-Way,Taxi
+1198,02/03/2025,18:05,Bronx,M,Following Too Closely,SUV
+1199,02/05/2025,08:30,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1200,02/07/2025,12:55,Queens,F,Unsafe Speed,Sedan
+1201,02/09/2025,17:20,Manhattan,M,Unsafe Lane Changing,Taxi
+1202,02/11/2025,07:45,Bronx,M,Traffic Control Disregarded,Sedan
+1203,02/13/2025,11:10,Staten Island,F,Driver Inattention/Distraction,SUV
+1204,02/15/2025,15:35,Brooklyn,M,Failure to Yield Right-of-Way,Pick-up Truck
+1205,02/17/2025,20:00,Queens,M,Unsafe Speed,Sedan
+1206,02/19/2025,09:25,Manhattan,NaN,Following Too Closely,Bus
+1207,02/21/2025,13:50,Bronx,F,Driver Inattention/Distraction,Sedan
+1208,02/23/2025,18:15,Brooklyn,M,Unsafe Lane Changing,SUV
+1209,02/25/2025,08:40,Queens,M,Traffic Control Disregarded,Sedan
+1210,02/27/2025,12:05,Manhattan,F,Unsafe Speed,Taxi
+1211,03/01/2025,16:30,Bronx,M,Driver Inattention/Distraction,Sedan
+1212,03/03/2025,07:55,Staten Island,M,Failure to Yield Right-of-Way,Pick-up Truck
+1213,03/05/2025,11:20,Brooklyn,F,Following Too Closely,Sedan
+1214,03/07/2025,15:45,Queens,M,Driver Inattention/Distraction,SUV
+1215,03/09/2025,20:10,Manhattan,M,Unsafe Lane Changing,Taxi
+1216,03/11/2025,09:35,Bronx,NaN,Unsafe Speed,Sedan
+1217,03/13/2025,14:00,Brooklyn,F,Traffic Control Disregarded,Sedan
+1218,03/15/2025,18:25,Queens,M,Driver Inattention/Distraction,SUV
+1219,03/17/2025,08:50,Manhattan,M,Failure to Yield Right-of-Way,Taxi
+1220,03/19/2025,13:15,Bronx,F,Unsafe Speed,Sedan
+1221,03/21/2025,17:40,Staten Island,M,Following Too Closely,Pick-up Truck
+1222,03/23/2025,09:05,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1223,03/25/2025,14:30,Queens,F,Unsafe Lane Changing,SUV
+1224,03/27/2025,19:55,Manhattan,M,Traffic Control Disregarded,Bus
+1225,03/29/2025,08:20,Bronx,M,Unsafe Speed,Sedan
+1226,04/01/2025,12:45,Brooklyn,NaN,Driver Inattention/Distraction,Sedan
+1227,04/03/2025,17:10,Queens,F,Failure to Yield Right-of-Way,SUV
+1228,04/05/2025,07:35,Manhattan,M,Following Too Closely,Taxi
+1229,04/07/2025,11:00,Bronx,M,Driver Inattention/Distraction,Sedan
+1230,04/09/2025,15:25,Staten Island,F,Unsafe Lane Changing,Pick-up Truck
+1231,04/11/2025,20:50,Brooklyn,M,Unsafe Speed,Sedan
+1232,04/13/2025,09:15,Queens,M,Traffic Control Disregarded,Sedan
+1233,04/15/2025,13:40,Manhattan,F,Driver Inattention/Distraction,Taxi
+1234,04/17/2025,18:05,Bronx,M,Failure to Yield Right-of-Way,SUV
+1235,04/19/2025,08:30,Brooklyn,M,Unsafe Speed,Sedan
+1236,04/21/2025,12:55,Queens,NaN,Following Too Closely,Sedan
+1237,04/23/2025,17:20,Manhattan,F,Driver Inattention/Distraction,Taxi
+1238,04/25/2025,07:45,Bronx,M,Unsafe Lane Changing,Pick-up Truck
+1239,04/27/2025,11:10,Staten Island,M,Traffic Control Disregarded,SUV
+1240,04/29/2025,15:35,Brooklyn,F,Unsafe Speed,Sedan
+1241,05/01/2025,20:00,Queens,M,Driver Inattention/Distraction,Sedan
+1242,05/03/2025,09:25,Manhattan,M,Failure to Yield Right-of-Way,Bus
+1243,05/05/2025,13:50,Bronx,F,Following Too Closely,Sedan
+1244,05/07/2025,18:15,Brooklyn,M,Driver Inattention/Distraction,SUV
+1245,05/09/2025,08:40,Queens,M,Unsafe Lane Changing,Sedan
+1246,05/11/2025,12:05,Manhattan,NaN,Unsafe Speed,Taxi
+1247,05/13/2025,16:30,Bronx,F,Traffic Control Disregarded,Sedan
+1248,05/15/2025,07:55,Staten Island,M,Driver Inattention/Distraction,Pick-up Truck
+1249,05/17/2025,11:20,Brooklyn,M,Failure to Yield Right-of-Way,Sedan
+1250,05/19/2025,15:45,Queens,F,Unsafe Speed,SUV
+1251,05/21/2025,20:10,Manhattan,M,Following Too Closely,Taxi
+1252,05/23/2025,09:35,Bronx,M,Driver Inattention/Distraction,Sedan
+1253,05/25/2025,14:00,Brooklyn,F,Unsafe Lane Changing,Sedan
+1254,05/27/2025,18:25,Queens,M,Traffic Control Disregarded,SUV
+1255,05/29/2025,08:50,Manhattan,M,Unsafe Speed,Taxi
+1256,05/31/2025,13:15,Bronx,NaN,Driver Inattention/Distraction,Pick-up Truck
+1257,06/02/2025,17:40,Staten Island,F,Failure to Yield Right-of-Way,Sedan
+1258,06/04/2025,09:05,Brooklyn,M,Following Too Closely,Sedan
+1259,06/06/2025,14:30,Queens,M,Unsafe Speed,SUV
+1260,06/08/2025,19:55,Manhattan,F,Driver Inattention/Distraction,Taxi
+1261,06/10/2025,08:20,Bronx,M,Unsafe Lane Changing,Sedan
+1262,06/12/2025,12:45,Brooklyn,M,Traffic Control Disregarded,Sedan
+1263,06/14/2025,17:10,Queens,F,Driver Inattention/Distraction,SUV
+1264,06/16/2025,07:35,Manhattan,M,Failure to Yield Right-of-Way,Bus
+1265,06/18/2025,11:00,Bronx,M,Unsafe Speed,Sedan
+1266,06/20/2025,15:25,Staten Island,NaN,Following Too Closely,Pick-up Truck
+1267,06/22/2025,19:50,Brooklyn,F,Driver Inattention/Distraction,Sedan
+1268,06/24/2025,09:15,Queens,M,Unsafe Lane Changing,Sedan
+1269,06/26/2025,13:40,Manhattan,M,Traffic Control Disregarded,Taxi
+1270,06/28/2025,18:05,Bronx,F,Unsafe Speed,SUV
+1271,06/30/2025,08:30,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1272,07/02/2025,12:55,Queens,M,Failure to Yield Right-of-Way,Sedan
+1273,07/04/2025,23:20,Manhattan,F,Unsafe Speed,Taxi
+1274,07/06/2025,09:45,Bronx,M,Following Too Closely,Sedan
+1275,07/08/2025,14:10,Staten Island,M,Driver Inattention/Distraction,Pick-up Truck
+1276,07/10/2025,18:35,Brooklyn,NaN,Unsafe Lane Changing,SUV
+1277,07/12/2025,08:00,Queens,F,Traffic Control Disregarded,Sedan
+1278,07/14/2025,12:25,Manhattan,M,Unsafe Speed,Taxi
+1279,07/16/2025,16:50,Bronx,M,Driver Inattention/Distraction,Sedan
+1280,07/18/2025,07:15,Brooklyn,F,Failure to Yield Right-of-Way,Sedan
+1281,07/20/2025,11:40,Queens,M,Following Too Closely,SUV
+1282,07/22/2025,15:05,Manhattan,M,Driver Inattention/Distraction,Bus
+1283,07/24/2025,20:30,Bronx,F,Unsafe Lane Changing,Sedan
+1284,07/26/2025,09:55,Staten Island,M,Unsafe Speed,Pick-up Truck
+1285,07/28/2025,14:20,Brooklyn,M,Traffic Control Disregarded,Sedan
+1286,07/30/2025,18:45,Queens,NaN,Driver Inattention/Distraction,SUV
+1287,08/01/2025,08:10,Manhattan,F,Failure to Yield Right-of-Way,Taxi
+1288,08/03/2025,12:35,Bronx,M,Unsafe Speed,Sedan
+1289,08/05/2025,17:00,Brooklyn,M,Following Too Closely,Sedan
+1290,08/07/2025,07:25,Queens,F,Driver Inattention/Distraction,SUV
+1291,08/09/2025,11:50,Manhattan,M,Unsafe Lane Changing,Taxi
+1292,08/11/2025,16:15,Bronx,M,Traffic Control Disregarded,Sedan
+1293,08/13/2025,20:40,Staten Island,F,Unsafe Speed,Pick-up Truck
+1294,08/15/2025,09:05,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1295,08/17/2025,13:30,Queens,NaN,Failure to Yield Right-of-Way,SUV
+1296,08/19/2025,17:55,Manhattan,F,Following Too Closely,Taxi
+1297,08/21/2025,08:20,Bronx,M,Unsafe Speed,Sedan
+1298,08/23/2025,12:45,Brooklyn,M,Driver Inattention/Distraction,Sedan
+1299,08/25/2025,17:10,Queens,F,Unsafe Lane Changing,SUV
+1300,08/27/2025,07:35,Manhattan,M,Traffic Control Disregarded,Taxi

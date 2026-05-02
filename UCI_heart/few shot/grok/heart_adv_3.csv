@@ -1,0 +1,110 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,Male,asymptomatic,145,233,True,lv hypertrophy,150,True,2.3,flat,2,fixed defect,Heart Disease
+67,Male,asymptomatic,160,286,False,lv hypertrophy,108,True,1.5,flat,3,reversible defect,Heart Disease
+67,Male,asymptomatic,120,229,False,lv hypertrophy,129,True,2.6,flat,2,reversible defect,Heart Disease
+37,Male,atypical angina,130,250,False,normal,187,False,3.5,upsloping,0,normal,Healthy
+41,Male,atypical angina,130,204,False,lv hypertrophy,172,False,1.4,upsloping,0,normal,Healthy
+56,Male,asymptomatic,120,236,False,normal,178,False,0.8,upsloping,0,normal,Healthy
+62,Male,asymptomatic,140,268,False,lv hypertrophy,160,True,3.6,flat,2,reversible defect,Heart Disease
+57,Male,asymptomatic,120,354,False,normal,163,True,0.6,upsloping,0,normal,Heart Disease
+63,Male,asymptomatic,130,254,False,lv hypertrophy,147,False,1.4,flat,1,reversible defect,Heart Disease
+53,Male,asymptomatic,140,203,True,lv hypertrophy,155,True,3.1,flat,0,reversible defect,Heart Disease
+57,Male,asymptomatic,140,192,False,normal,148,False,0.4,upsloping,0,normal,Healthy
+56,Male,atypical angina,140,294,False,lv hypertrophy,153,False,1.3,flat,0,normal,Healthy
+61,Male,asymptomatic,150,243,False,lv hypertrophy,137,True,1.0,flat,0,reversible defect,Heart Disease
+64,Male,asymptomatic,170,227,False,lv hypertrophy,155,False,0.6,flat,0,reversible defect,Heart Disease
+58,Male,asymptomatic,150,270,False,stt abnormality,111,True,0.8,flat,0,reversible defect,Heart Disease
+50,Male,asymptomatic,144,200,False,stt abnormality,126,True,0.9,flat,0,reversible defect,Heart Disease
+58,Male,non-anginal,120,284,False,lv hypertrophy,160,False,1.8,upsloping,0,normal,Healthy
+58,Male,asymptomatic,132,184,False,lv hypertrophy,105,True,2.1,flat,1,reversible defect,Heart Disease
+42,Male,atypical angina,148,244,False,normal,178,False,0.8,upsloping,2,normal,Healthy
+60,Male,asymptomatic,130,206,False,lv hypertrophy,132,True,2.4,flat,2,reversible defect,Heart Disease
+64,Male,asymptomatic,140,335,False,lv hypertrophy,158,False,0.0,upsloping,0,normal,Heart Disease
+59,Male,asymptomatic,138,271,False,stt abnormality,182,False,0.0,upsloping,0,normal,Healthy
+50,Male,asymptomatic,144,200,False,stt abnormality,126,True,0.9,flat,0,reversible defect,Heart Disease
+44,Male,atypical angina,120,220,False,normal,170,False,0.0,upsloping,0,normal,Healthy
+58,Male,asymptomatic,136,319,False,lv hypertrophy,152,False,0.0,upsloping,2,normal,Heart Disease
+42,Male,non-anginal,120,295,False,normal,162,False,0.0,upsloping,0,normal,Healthy
+52,Male,asymptomatic,125,212,False,normal,168,False,1.0,upsloping,1,normal,Heart Disease
+59,Male,asymptomatic,138,271,False,stt abnormality,182,False,0.0,upsloping,0,normal,Healthy
+40,Male,asymptomatic,140,199,False,normal,178,True,1.4,flat,2,reversible defect,Heart Disease
+42,Male,atypical angina,134,240,False,normal,169,False,0.0,upsloping,0,normal,Healthy
+56,Male,asymptomatic,120,193,False,lv hypertrophy,162,False,1.9,flat,0,reversible defect,Heart Disease
+66,Male,asymptomatic,120,302,False,lv hypertrophy,151,False,0.4,flat,0,reversible defect,Heart Disease
+71,Male,asymptomatic,160,302,True,lv hypertrophy,162,False,0.4,upsloping,2,normal,Heart Disease
+62,Male,asymptomatic,150,244,False,lv hypertrophy,154,True,1.4,flat,0,reversible defect,Heart Disease
+66,Male,asymptomatic,140,302,False,lv hypertrophy,151,False,0.4,flat,0,reversible defect,Heart Disease
+54,Male,asymptomatic,140,239,False,normal,160,False,1.2,upsloping,0,normal,Healthy
+67,Male,asymptomatic,100,299,False,lv hypertrophy,151,True,0.4,flat,0,reversible defect,Heart Disease
+49,Male,non-anginal,130,266,False,normal,171,False,0.6,upsloping,0,normal,Healthy
+46,Male,asymptomatic,120,249,False,lv hypertrophy,144,True,0.8,flat,0,reversible defect,Heart Disease
+45,Male,atypical angina,130,219,False,normal,188,False,0.0,upsloping,0,normal,Healthy
+68,Male,asymptomatic,144,193,False,stt abnormality,141,False,3.4,flat,2,reversible defect,Heart Disease
+57,Male,asymptomatic,130,131,False,normal,115,True,1.2,flat,1,reversible defect,Heart Disease
+62,Male,asymptomatic,140,268,False,lv hypertrophy,160,True,3.6,flat,2,reversible defect,Heart Disease
+61,Male,asymptomatic,134,234,False,normal,145,False,2.6,flat,2,reversible defect,Heart Disease
+64,Male,asymptomatic,128,263,False,lv hypertrophy,105,True,0.2,flat,1,reversible defect,Heart Disease
+51,Male,asymptomatic,140,298,False,lv hypertrophy,122,True,4.2,flat,3,reversible defect,Heart Disease
+46,Male,atypical angina,120,230,False,normal,150,False,0.0,upsloping,0,normal,Healthy
+42,Male,non-anginal,120,240,False,normal,194,False,0.8,upsloping,0,normal,Healthy
+59,Male,asymptomatic,140,177,False,lv hypertrophy,140,True,0.0,upsloping,1,reversible defect,Heart Disease
+40,Female,atypical angina,140,199,False,normal,178,True,1.4,flat,2,reversible defect,Heart Disease
+45,Female,typical angina,130,234,False,normal,175,False,0.6,upsloping,0,normal,Healthy
+54,Female,non-anginal,120,273,False,normal,150,False,1.5,flat,0,normal,Healthy
+58,Female,asymptomatic,150,283,False,lv hypertrophy,162,False,1.0,flat,0,reversible defect,Heart Disease
+49,Female,atypical angina,130,269,False,normal,158,False,0.0,upsloping,0,normal,Healthy
+48,Female,non-anginal,120,254,False,normal,175,False,0.0,upsloping,0,normal,Healthy
+50,Female,typical angina,110,254,False,normal,159,False,0.0,upsloping,0,normal,Healthy
+54,Female,atypical angina,120,273,False,normal,150,False,1.5,flat,0,normal,Healthy
+59,Female,non-anginal,130,328,False,normal,145,False,0.0,upsloping,0,normal,Healthy
+37,Female,atypical angina,120,215,False,normal,170,False,0.0,upsloping,0,normal,Healthy
+48,Female,non-anginal,130,275,False,normal,139,False,0.2,upsloping,0,normal,Healthy
+49,Female,typical angina,130,269,False,normal,158,False,0.0,upsloping,0,normal,Healthy
+44,Female,atypical angina,110,197,False,normal,177,False,0.0,upsloping,0,normal,Healthy
+46,Female,non-anginal,130,240,False,normal,168,False,0.0,upsloping,0,normal,Healthy
+55,Female,asymptomatic,120,205,False,normal,130,True,2.0,flat,1,reversible defect,Heart Disease
+61,Female,asymptomatic,130,330,False,lv hypertrophy,169,False,0.0,upsloping,0,normal,Healthy
+65,Female,non-anginal,140,417,True,lv hypertrophy,157,False,0.8,upsloping,1,normal,Healthy
+39,Female,atypical angina,110,182,False,normal,180,False,0.0,upsloping,0,normal,Healthy
+53,Female,non-anginal,130,197,False,normal,152,False,1.2,upsloping,0,normal,Healthy
+41,Female,typical angina,105,198,False,normal,168,False,0.0,upsloping,0,normal,Healthy
+65,Female,asymptomatic,150,225,False,lv hypertrophy,114,False,1.0,flat,3,reversible defect,Heart Disease
+44,Female,atypical angina,120,220,False,normal,170,False,0.0,upsloping,0,normal,Healthy
+54,Female,non-anginal,120,273,False,normal,150,False,1.5,flat,0,normal,Healthy
+51,Female,typical angina,130,256,False,normal,149,False,0.5,upsloping,0,normal,Healthy
+46,Female,atypical angina,130,250,False,normal,175,False,0.0,upsloping,0,normal,Healthy
+45,Female,non-anginal,130,234,False,normal,175,False,0.6,upsloping,0,normal,Healthy
+61,Female,asymptomatic,145,307,False,lv hypertrophy,146,True,1.0,flat,0,reversible defect,Heart Disease
+59,Female,non-anginal,130,328,False,normal,145,False,0.0,upsloping,0,normal,Healthy
+57,Female,atypical angina,130,236,False,normal,174,False,0.0,upsloping,1,normal,Healthy
+57,Female,typical angina,120,354,False,normal,163,True,0.6,upsloping,0,normal,Healthy
+38,Female,non-anginal,120,182,False,normal,174,False,0.0,upsloping,0,normal,Healthy
+56,Female,asymptomatic,134,409,False,lv hypertrophy,150,True,1.9,flat,2,reversible defect,Heart Disease
+62,Female,non-anginal,140,394,False,lv hypertrophy,157,False,1.2,flat,0,normal,Healthy
+49,Female,atypical angina,130,269,False,normal,158,False,0.0,upsloping,0,normal,Healthy
+44,Female,typical angina,120,242,False,normal,149,False,0.3,upsloping,0,normal,Healthy
+60,Female,asymptomatic,150,240,False,lv hypertrophy,171,False,0.9,upsloping,0,normal,Healthy
+40,Female,atypical angina,140,199,False,normal,178,True,1.4,flat,2,reversible defect,Heart Disease
+46,Female,non-anginal,130,275,False,normal,172,False,0.0,upsloping,0,normal,Healthy
+71,Female,non-anginal,160,302,False,lv hypertrophy,162,False,0.4,upsloping,2,normal,Healthy
+59,Female,typical angina,140,221,False,normal,164,True,0.0,upsloping,0,normal,Healthy
+53,Female,atypical angina,130,197,False,normal,152,False,1.2,upsloping,0,normal,Healthy
+41,Female,non-anginal,105,198,False,normal,168,False,0.0,upsloping,0,normal,Healthy
+65,Female,asymptomatic,150,225,False,lv hypertrophy,114,False,1.0,flat,3,reversible defect,Heart Disease
+51,Female,typical angina,130,256,False,normal,149,False,0.5,upsloping,0,normal,Healthy
+57,Female,non-anginal,130,236,False,normal,174,False,0.0,upsloping,1,normal,Healthy
+54,Female,asymptomatic,120,273,False,normal,150,False,1.5,flat,0,normal,Healthy
+48,Female,atypical angina,130,275,False,normal,139,False,0.2,upsloping,0,normal,Healthy
+45,Female,typical angina,130,234,False,normal,175,False,0.6,upsloping,0,normal,Healthy
+50,Female,non-anginal,110,254,False,normal,159,False,0.0,upsloping,0,normal,Healthy
+63,Male,asymptomatic,145,233,True,lv hypertrophy,150,True,2.3,flat,2,fixed defect,Heart Disease
+67,Male,asymptomatic,160,286,False,lv hypertrophy,108,True,1.5,flat,3,reversible defect,Heart Disease
+62,Male,asymptomatic,140,268,False,lv hypertrophy,160,True,3.6,flat,2,reversible defect,Heart Disease
+59,Male,asymptomatic,138,271,False,stt abnormality,182,False,0.0,upsloping,0,normal,Healthy
+64,Male,asymptomatic,170,227,False,lv hypertrophy,155,False,0.6,flat,0,reversible defect,Heart Disease
+58,Male,asymptomatic,150,270,False,stt abnormality,111,True,0.8,flat,0,reversible defect,Heart Disease
+66,Male,asymptomatic,140,302,False,lv hypertrophy,151,False,0.4,flat,0,reversible defect,Heart Disease
+54,Male,asymptomatic,140,239,False,normal,160,False,1.2,upsloping,0,normal,Healthy
+57,Male,asymptomatic,130,131,False,normal,115,True,1.2,flat,1,reversible defect,Heart Disease
+61,Male,asymptomatic,150,243,False,lv hypertrophy,137,True,1.0,flat,0,reversible defect,Heart Disease
+50,Male,asymptomatic,144,200,False,stt abnormality,126,True,0.9,flat,0,reversible defect,Heart Disease

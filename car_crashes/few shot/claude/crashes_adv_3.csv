@@ -1,0 +1,301 @@
+COLLISION_ID,CRASH DATE,CRASH TIME,BOROUGH,DRIVER_SEX,CONTRIBUTING_FACTOR_1,VEHICLE_TYPE
+4783041,04/02/2024,13:00,QUEENS,F,Failure to Yield Right-of-Way,SUV
+4950906,07/15/2025,14:15,BROOKLYN,M,View Obstructed/Limited,SUV
+4894343,09/27/2024,16:45,BROOKLYN,M,Unsafe Speed,Sedan
+4071951,10/29/2025,01:00,BROOKLYN,F,Traffic Control Disregarded,Taxi
+4379625,06/09/2025,18:00,QUEENS,M,Passing Too Closely,Bus
+4965498,12/04/2024,19:30,BROOKLYN,M,Failure to Yield Right-of-Way,Van
+4893085,09/08/2024,02:30,BROOKLYN,F,Passing Too Closely,Van
+4220281,11/29/2025,07:00,BROOKLYN,M,Passing or Lane Usage Improper,Motorcycle
+4819488,09/28/2024,10:45,QUEENS,M,Outside Car Distraction,Box Truck
+4942802,12/17/2024,22:00,MANHATTAN,M,Backing Unsafely,Sedan
+4816964,06/21/2024,02:00,MANHATTAN,M,Traffic Control Disregarded,Motorcycle
+4226130,06/02/2024,17:45,BRONX,M,Cell Phone (Hand-Held),Sedan
+4800177,06/28/2024,15:45,QUEENS,F,Backing Unsafely,Bicycle
+4736996,04/09/2025,08:30,QUEENS,M,Failure to Yield Right-of-Way,Van
+4116242,05/26/2025,19:00,BRONX,M,Drugs (Illegal),Sedan
+4453014,11/26/2024,19:30,QUEENS,M,Passing Too Closely,E-Scooter
+4697660,03/09/2025,23:00,MANHATTAN,F,Brakes Defective,Sedan
+4312942,10/16/2025,16:15,BROOKLYN,M,Backing Unsafely,SUV
+4697416,09/18/2024,11:15,MANHATTAN,M,View Obstructed/Limited,Sedan
+4562275,05/07/2024,12:00,BROOKLYN,M,Brakes Defective,Motorcycle
+4580828,08/23/2024,18:15,BROOKLYN,M,Unsafe Speed,Sedan
+4578727,07/10/2025,12:45,QUEENS,F,Traffic Control Disregarded,E-Bike
+4703024,03/09/2025,16:30,MANHATTAN,M,Cell Phone (Hand-Held),Sedan
+4860394,08/21/2024,07:00,BROOKLYN,M,Aggressive Driving/Road Rage,Sedan
+4812085,12/12/2024,21:00,MANHATTAN,M,Outside Car Distraction,Sedan
+4529903,09/08/2025,00:15,BROOKLYN,M,Passing or Lane Usage Improper,SUV
+4531981,03/16/2024,09:45,MANHATTAN,M,Unsafe Speed,SUV
+4753258,11/22/2024,23:30,BRONX,F,Improper Lane Changing,Van
+4201158,03/06/2025,21:45,BROOKLYN,M,Backing Unsafely,SUV
+4954951,02/26/2024,03:15,BRONX,M,Backing Unsafely,Sedan
+4904017,02/18/2024,20:30,BRONX,M,Turning Improperly,SUV
+4398382,04/09/2024,11:30,BROOKLYN,M,Unsafe Speed,Van
+4756648,11/28/2024,18:00,MANHATTAN,F,Improper Lane Changing,Sedan
+4037642,09/24/2025,02:15,QUEENS,M,Cell Phone (Hand-Held),Bicycle
+4846432,03/15/2025,17:00,MANHATTAN,M,Fatigued/Drowsy,Sedan
+4668480,02/19/2025,11:15,BRONX,F,Improper Lane Changing,Box Truck
+4695613,04/16/2024,04:30,BROOKLYN,M,Failure to Yield Right-of-Way,Van
+4012861,08/10/2025,09:45,QUEENS,M,Outside Car Distraction,Sedan
+4702685,04/17/2024,05:30,QUEENS,M,View Obstructed/Limited,Sedan
+4475755,06/01/2025,19:45,MANHATTAN,M,Failure to Yield Right-of-Way,Box Truck
+4210743,05/22/2024,07:45,BRONX,M,Passing or Lane Usage Improper,SUV
+4330876,05/02/2024,23:15,QUEENS,M,View Obstructed/Limited,Sedan
+4250405,08/08/2025,12:15,QUEENS,F,Alcohol Involvement,Sedan
+4568532,03/03/2024,23:30,BROOKLYN,M,Drugs (Illegal),SUV
+4608519,07/21/2025,23:00,MANHATTAN,M,Drugs (Illegal),Pick-up Truck
+4012038,11/27/2025,23:00,BROOKLYN,M,Passing or Lane Usage Improper,Van
+4502248,02/15/2025,13:00,MANHATTAN,M,Pavement Slippery,Sedan
+4110665,03/19/2025,11:45,BROOKLYN,M,Alcohol Involvement,Sedan
+4599704,01/02/2025,18:30,QUEENS,F,Cell Phone (Hand-Held),Sedan
+4855015,07/10/2025,15:30,BRONX,M,Traffic Control Disregarded,Sedan
+4414463,09/05/2025,01:00,MANHATTAN,M,Traffic Control Disregarded,Van
+4395019,06/06/2024,05:15,MANHATTAN,F,Brakes Defective,Taxi
+4629577,05/03/2024,18:00,BROOKLYN,M,Alcohol Involvement,Pick-up Truck
+4457058,10/12/2025,15:00,QUEENS,M,Alcohol Involvement,Sedan
+4781369,05/23/2025,09:15,QUEENS,M,Turning Improperly,Sedan
+4626152,01/22/2024,01:30,QUEENS,M,Improper Lane Changing,Taxi
+4008574,04/20/2024,13:15,STATEN ISLAND,F,Turning Improperly,Van
+4949401,02/02/2024,10:00,BROOKLYN,M,Fatigued/Drowsy,Pick-up Truck
+4379201,08/14/2025,06:00,BROOKLYN,M,Passing Too Closely,Van
+4778325,06/07/2024,13:00,QUEENS,F,Brakes Defective,SUV
+4471029,08/26/2025,08:00,BROOKLYN,M,Backing Unsafely,Pick-up Truck
+4882277,04/26/2024,14:00,QUEENS,M,Improper Lane Changing,SUV
+4349555,03/24/2024,18:15,MANHATTAN,F,Cell Phone (Hand-Held),E-Scooter
+4978593,12/23/2024,02:15,BROOKLYN,M,Backing Unsafely,SUV
+4682535,07/18/2025,23:15,MANHATTAN,M,Passing Too Closely,SUV
+4784256,04/27/2024,05:30,BROOKLYN,M,Driver Inattention/Distraction,Bus
+4903625,02/13/2024,13:00,MANHATTAN,M,Following Too Closely,Box Truck
+4753789,05/05/2025,16:45,BRONX,F,Drugs (Illegal),Sedan
+4405674,01/17/2025,08:00,BRONX,M,Following Too Closely,Sedan
+4670030,02/01/2024,15:30,BRONX,M,Cell Phone (Hand-Held),SUV
+4224643,07/06/2025,04:45,BROOKLYN,M,View Obstructed/Limited,Taxi
+4184229,05/12/2024,12:15,MANHATTAN,M,Turning Improperly,Sedan
+4114576,09/11/2024,06:15,BROOKLYN,M,Improper Lane Changing,SUV
+4670487,04/24/2024,00:30,BROOKLYN,M,Improper Lane Changing,Van
+4145121,09/13/2024,01:45,MANHATTAN,F,Passing or Lane Usage Improper,Bus
+4072306,06/02/2025,20:30,BROOKLYN,M,Alcohol Involvement,Taxi
+4870357,11/05/2025,12:30,QUEENS,M,Unsafe Speed,Motorcycle
+4618226,06/21/2025,19:30,QUEENS,F,Traffic Control Disregarded,Sedan
+4099096,07/25/2025,21:45,MANHATTAN,M,Brakes Defective,Box Truck
+4479027,11/05/2024,06:45,QUEENS,F,Failure to Yield Right-of-Way,Sedan
+4020480,08/12/2025,12:45,BROOKLYN,M,Turning Improperly,Sedan
+4970342,10/17/2025,22:15,BROOKLYN,M,Unsafe Speed,Sedan
+4071849,09/01/2025,02:15,BROOKLYN,M,Drugs (Illegal),Sedan
+4484106,10/15/2024,12:45,MANHATTAN,F,Traffic Control Disregarded,Taxi
+4245180,04/27/2025,00:30,QUEENS,F,Passing Too Closely,Pick-up Truck
+4116276,10/17/2024,21:45,MANHATTAN,M,Cell Phone (Hand-Held),Sedan
+4583397,03/02/2024,18:30,MANHATTAN,M,Alcohol Involvement,SUV
+4586075,09/01/2025,10:45,BROOKLYN,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,SUV
+4394976,10/20/2025,10:15,MANHATTAN,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan
+4121552,02/17/2025,16:00,QUEENS,M,Passing or Lane Usage Improper,SUV
+4408930,03/05/2025,17:15,BROOKLYN,M,Fatigued/Drowsy,SUV
+4366346,12/25/2024,23:15,MANHATTAN,M,Improper Lane Changing,Sedan
+4154721,09/02/2025,00:30,QUEENS,F,Improper Lane Changing,E-Bike
+4331737,09/24/2024,06:30,BROOKLYN,M,Aggressive Driving/Road Rage,Sedan
+4228552,04/21/2025,22:30,BROOKLYN,F,Backing Unsafely,SUV
+4743788,08/18/2024,11:30,BRONX,F,Fatigued/Drowsy,Sedan
+4383713,02/16/2024,12:00,STATEN ISLAND,M,Traffic Control Disregarded,SUV
+4085884,04/26/2025,00:00,BROOKLYN,F,Turning Improperly,Sedan
+4764491,02/25/2024,21:00,BROOKLYN,M,Outside Car Distraction,Taxi
+4053872,09/15/2024,15:00,QUEENS,F,Aggressive Driving/Road Rage,SUV
+4438446,09/11/2024,05:30,STATEN ISLAND,F,Outside Car Distraction,Sedan
+4651517,06/05/2024,07:15,BROOKLYN,M,Failure to Yield Right-of-Way,SUV
+4641599,10/19/2024,22:45,BRONX,M,Improper Lane Changing,Box Truck
+4320214,08/05/2025,19:00,QUEENS,M,Failure to Yield Right-of-Way,Bus
+4146413,09/09/2024,23:30,BROOKLYN,M,Alcohol Involvement,Motorcycle
+4597530,09/16/2025,21:45,BROOKLYN,M,View Obstructed/Limited,Box Truck
+4089814,05/12/2025,02:15,BROOKLYN,M,View Obstructed/Limited,Bus
+4292075,04/18/2025,07:00,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+4949282,06/09/2025,04:45,MANHATTAN,M,Passing Too Closely,Taxi
+4536265,04/28/2024,12:15,BROOKLYN,M,Alcohol Involvement,Sedan
+4609805,01/12/2025,15:30,QUEENS,M,Passing or Lane Usage Improper,Sedan
+4403457,01/25/2025,19:45,BROOKLYN,M,Passing or Lane Usage Improper,Box Truck
+4801280,09/18/2024,09:30,MANHATTAN,M,View Obstructed/Limited,Van
+4424707,01/22/2024,10:15,MANHATTAN,M,Brakes Defective,SUV
+4383629,06/27/2025,16:30,QUEENS,F,Fatigued/Drowsy,Motorcycle
+4038817,05/09/2024,16:30,QUEENS,F,Pavement Slippery,Sedan
+4431712,11/16/2025,23:15,BROOKLYN,M,Failure to Yield Right-of-Way,SUV
+4509231,05/07/2025,06:45,BROOKLYN,F,Backing Unsafely,SUV
+4623398,02/10/2024,19:00,BROOKLYN,M,Drugs (Illegal),SUV
+4547957,01/24/2025,14:45,QUEENS,M,Drugs (Illegal),Bicycle
+4188803,06/23/2024,05:00,QUEENS,M,Aggressive Driving/Road Rage,SUV
+4584482,09/12/2024,03:45,BROOKLYN,M,Pavement Slippery,Pick-up Truck
+4663686,09/26/2025,10:00,BROOKLYN,F,Passing Too Closely,Pick-up Truck
+4551613,07/11/2025,16:00,BRONX,M,View Obstructed/Limited,Sedan
+4954667,04/12/2025,00:15,QUEENS,M,Improper Lane Changing,Sedan
+4356778,10/11/2024,04:15,BROOKLYN,F,Outside Car Distraction,Sedan
+4369412,07/13/2025,10:15,BRONX,F,Pavement Slippery,E-Bike
+4556251,08/08/2024,12:45,MANHATTAN,M,Backing Unsafely,SUV
+4569605,12/21/2025,09:00,BROOKLYN,M,Passing or Lane Usage Improper,Sedan
+4988467,10/05/2024,16:45,QUEENS,M,Brakes Defective,Sedan
+4375644,08/31/2024,18:30,QUEENS,M,Fatigued/Drowsy,Sedan
+4991151,12/19/2024,18:30,QUEENS,M,Alcohol Involvement,Pick-up Truck
+4651332,07/30/2025,03:00,BROOKLYN,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan
+4755053,02/20/2025,15:15,BROOKLYN,M,View Obstructed/Limited,SUV
+4741995,03/24/2025,14:15,MANHATTAN,M,Cell Phone (Hand-Held),SUV
+4501776,10/08/2025,05:15,BRONX,M,Pavement Slippery,Sedan
+4603727,03/15/2025,18:45,MANHATTAN,M,Alcohol Involvement,Sedan
+4816449,06/27/2025,00:30,BROOKLYN,M,Failure to Yield Right-of-Way,Bus
+4847903,04/25/2025,06:30,MANHATTAN,M,Drugs (Illegal),E-Bike
+4922040,05/19/2024,02:30,QUEENS,F,Alcohol Involvement,Sedan
+4335239,07/07/2025,02:15,BROOKLYN,M,Aggressive Driving/Road Rage,Pick-up Truck
+4289282,07/13/2024,03:45,QUEENS,M,Traffic Control Disregarded,Pick-up Truck
+4094423,02/06/2025,16:45,STATEN ISLAND,F,Traffic Control Disregarded,SUV
+4577599,10/08/2024,04:30,BRONX,M,Following Too Closely,SUV
+4578805,03/17/2024,05:00,QUEENS,M,Brakes Defective,SUV
+4190672,05/14/2025,06:30,BROOKLYN,F,Outside Car Distraction,Sedan
+4964047,06/27/2025,05:00,BROOKLYN,F,Following Too Closely,Box Truck
+4255570,04/12/2025,17:15,QUEENS,M,Brakes Defective,SUV
+4709570,07/12/2025,02:45,BROOKLYN,M,Following Too Closely,Sedan
+4342589,03/01/2025,05:15,QUEENS,M,Passing or Lane Usage Improper,Box Truck
+4393049,03/17/2025,04:15,QUEENS,M,Drugs (Illegal),Pick-up Truck
+4800152,03/19/2024,18:15,BRONX,M,Aggressive Driving/Road Rage,Sedan
+4065290,07/30/2024,13:45,BROOKLYN,F,Drugs (Illegal),Bus
+4127767,02/18/2024,07:45,BRONX,M,Brakes Defective,SUV
+4173148,09/28/2024,16:45,BROOKLYN,F,Passing or Lane Usage Improper,Van
+4292227,09/12/2024,03:00,BRONX,M,View Obstructed/Limited,SUV
+4040605,04/26/2025,07:15,BROOKLYN,F,Pavement Slippery,Sedan
+4647850,02/20/2024,21:00,MANHATTAN,M,Alcohol Involvement,SUV
+4995588,08/03/2025,01:15,BRONX,M,Turning Improperly,SUV
+4033659,11/19/2024,12:30,BROOKLYN,M,Drugs (Illegal),Box Truck
+4884642,07/03/2025,10:00,BROOKLYN,M,Fatigued/Drowsy,Sedan
+4906339,03/12/2024,08:30,BROOKLYN,M,Aggressive Driving/Road Rage,Pick-up Truck
+4901085,06/30/2025,12:30,QUEENS,M,View Obstructed/Limited,Box Truck
+4957918,07/29/2025,03:30,BRONX,F,Pavement Slippery,Sedan
+4542717,04/07/2025,03:15,BROOKLYN,M,Outside Car Distraction,Sedan
+4490110,07/18/2025,04:00,BRONX,M,Aggressive Driving/Road Rage,Bicycle
+4147594,08/19/2024,21:45,QUEENS,F,Passing or Lane Usage Improper,SUV
+4867611,04/09/2025,12:45,MANHATTAN,M,Outside Car Distraction,SUV
+4315568,02/19/2025,17:00,BROOKLYN,M,Traffic Control Disregarded,SUV
+4744261,06/11/2024,09:00,QUEENS,M,Following Too Closely,Sedan
+4444151,10/10/2024,01:00,BROOKLYN,M,Improper Lane Changing,Pick-up Truck
+4155287,03/16/2025,04:00,BROOKLYN,M,Unsafe Speed,Motorcycle
+4862287,07/03/2024,17:30,BRONX,M,Following Too Closely,Sedan
+4970535,07/05/2025,21:15,BROOKLYN,M,Following Too Closely,Bus
+4843776,12/02/2025,12:30,BRONX,M,Unsafe Speed,Sedan
+4057174,07/20/2025,09:15,QUEENS,M,View Obstructed/Limited,Sedan
+4566456,09/13/2024,05:00,QUEENS,M,Driver Inattention/Distraction,Sedan
+4302620,03/16/2024,12:45,STATEN ISLAND,F,Fatigued/Drowsy,Taxi
+4613799,07/15/2025,22:30,MANHATTAN,M,Brakes Defective,SUV
+4179451,06/30/2025,23:15,BROOKLYN,M,Aggressive Driving/Road Rage,Sedan
+4805819,03/15/2024,14:45,BROOKLYN,F,Drugs (Illegal),Sedan
+4409386,09/28/2024,14:30,BROOKLYN,M,Passing or Lane Usage Improper,Pick-up Truck
+4652483,06/30/2025,00:45,BROOKLYN,M,Driver Inattention/Distraction,Sedan
+4547091,10/28/2025,08:45,BROOKLYN,M,Drugs (Illegal),Sedan
+4653516,11/27/2025,19:00,STATEN ISLAND,M,Failure to Yield Right-of-Way,SUV
+4301022,03/19/2024,20:00,MANHATTAN,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,SUV
+4071603,04/25/2025,14:30,MANHATTAN,M,Drugs (Illegal),Sedan
+4780879,04/29/2025,22:45,QUEENS,M,Improper Lane Changing,SUV
+4199659,04/06/2024,03:45,BROOKLYN,M,Alcohol Involvement,SUV
+4634534,12/11/2024,18:00,BRONX,F,Driver Inattention/Distraction,Sedan
+4051021,02/21/2024,09:45,STATEN ISLAND,M,View Obstructed/Limited,Sedan
+4745957,06/12/2025,03:30,MANHATTAN,M,Backing Unsafely,Sedan
+4224597,12/15/2024,15:15,MANHATTAN,M,Improper Lane Changing,Sedan
+4449433,05/18/2024,14:15,BROOKLYN,M,Aggressive Driving/Road Rage,Sedan
+4732409,11/09/2025,12:15,MANHATTAN,M,Following Too Closely,Sedan
+4250867,10/08/2024,14:00,BROOKLYN,M,Passing Too Closely,Sedan
+4864278,08/05/2025,09:45,QUEENS,M,Cell Phone (Hand-Held),Pick-up Truck
+4286544,12/20/2025,09:30,MANHATTAN,M,Backing Unsafely,Box Truck
+4150551,10/25/2024,13:00,BRONX,M,Passing Too Closely,SUV
+4259961,05/24/2024,03:00,BRONX,M,Aggressive Driving/Road Rage,Box Truck
+4640255,10/18/2024,23:45,MANHATTAN,M,Passing Too Closely,Sedan
+4235552,07/22/2024,04:00,BROOKLYN,M,View Obstructed/Limited,SUV
+4591119,08/16/2025,14:30,MANHATTAN,F,Outside Car Distraction,Sedan
+4419902,06/20/2025,02:45,MANHATTAN,F,Outside Car Distraction,Sedan
+4838742,06/30/2024,13:00,BROOKLYN,M,Outside Car Distraction,Taxi
+4539995,07/29/2025,03:30,BRONX,M,Failure to Yield Right-of-Way,Sedan
+4825981,06/03/2025,08:00,QUEENS,M,Cell Phone (Hand-Held),Taxi
+4435810,05/10/2025,14:15,BRONX,M,Improper Lane Changing,Sedan
+4278361,02/09/2024,03:45,BROOKLYN,M,Outside Car Distraction,SUV
+4162998,10/05/2024,09:15,BROOKLYN,M,Traffic Control Disregarded,Pick-up Truck
+4244762,09/27/2024,20:15,QUEENS,M,Passing or Lane Usage Improper,Sedan
+4681533,12/09/2024,04:15,MANHATTAN,M,View Obstructed/Limited,Pick-up Truck
+4314910,06/03/2025,09:45,BROOKLYN,M,Cell Phone (Hand-Held),SUV
+4897004,01/06/2025,03:30,QUEENS,M,Turning Improperly,Sedan
+4833510,12/13/2024,17:30,STATEN ISLAND,F,Traffic Control Disregarded,SUV
+4462236,02/04/2024,18:30,QUEENS,M,Following Too Closely,Motorcycle
+4142254,02/01/2025,14:30,QUEENS,M,Passing or Lane Usage Improper,SUV
+4777747,03/07/2025,16:00,QUEENS,M,View Obstructed/Limited,SUV
+4108633,08/14/2025,16:15,MANHATTAN,M,View Obstructed/Limited,Sedan
+4992227,02/08/2024,09:45,QUEENS,M,Passing Too Closely,Motorcycle
+4476786,11/30/2024,10:45,BROOKLYN,M,Alcohol Involvement,Sedan
+4751413,10/25/2024,16:30,QUEENS,M,View Obstructed/Limited,E-Bike
+4310000,11/09/2024,14:45,BRONX,M,Pavement Slippery,SUV
+4732168,05/11/2025,03:00,QUEENS,F,Brakes Defective,Taxi
+4089318,09/11/2024,03:45,QUEENS,M,Brakes Defective,Sedan
+4676856,11/03/2024,14:30,BROOKLYN,F,Following Too Closely,Sedan
+4768544,11/03/2025,20:00,BRONX,F,Outside Car Distraction,Sedan
+4603766,11/24/2025,12:45,BROOKLYN,F,Traffic Control Disregarded,Sedan
+4056837,07/11/2024,16:30,QUEENS,M,View Obstructed/Limited,SUV
+4034225,08/25/2024,09:30,QUEENS,M,Pavement Slippery,Sedan
+4920607,07/18/2025,20:15,BRONX,F,Improper Lane Changing,SUV
+4994623,10/18/2025,18:30,BRONX,M,Drugs (Illegal),SUV
+4608093,11/06/2025,15:15,QUEENS,M,View Obstructed/Limited,Sedan
+4117308,03/18/2024,22:15,BROOKLYN,M,Turning Improperly,SUV
+4991107,02/14/2025,17:00,QUEENS,M,Outside Car Distraction,Sedan
+4683823,07/07/2025,00:00,BROOKLYN,F,Passing Too Closely,Sedan
+4215173,03/11/2024,17:15,QUEENS,M,Passing Too Closely,Sedan
+4418801,01/05/2025,07:15,BROOKLYN,M,Following Too Closely,Van
+4045471,11/05/2025,16:30,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+4972370,12/18/2025,20:15,BRONX,F,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan
+4181926,09/08/2025,04:00,MANHATTAN,M,View Obstructed/Limited,SUV
+4337145,09/11/2025,15:15,MANHATTAN,F,Pavement Slippery,Sedan
+4217881,10/02/2025,06:30,QUEENS,M,Backing Unsafely,Sedan
+4173580,03/24/2025,01:45,MANHATTAN,M,Passing Too Closely,E-Scooter
+4252528,05/24/2025,18:15,QUEENS,M,Fatigued/Drowsy,SUV
+4113475,12/24/2024,17:30,MANHATTAN,M,Fatigued/Drowsy,SUV
+4876566,08/12/2025,18:00,QUEENS,F,Fatigued/Drowsy,SUV
+4332427,10/19/2025,02:45,BRONX,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan
+4274680,06/14/2024,23:45,BROOKLYN,M,Alcohol Involvement,SUV
+4997742,10/13/2024,01:30,QUEENS,M,Pavement Slippery,E-Scooter
+4625113,12/19/2025,08:00,BROOKLYN,M,Traffic Control Disregarded,Sedan
+4510311,06/07/2024,06:30,BROOKLYN,M,Unsafe Speed,SUV
+4018080,04/05/2024,09:15,BROOKLYN,M,Passing Too Closely,Sedan
+4788295,09/10/2024,20:30,BROOKLYN,F,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,SUV
+4378411,07/02/2024,09:00,QUEENS,M,Improper Lane Changing,Sedan
+4372528,08/02/2024,21:30,BROOKLYN,M,Following Too Closely,SUV
+4724161,10/04/2025,07:00,BROOKLYN,M,Cell Phone (Hand-Held),Box Truck
+4474001,06/25/2024,22:45,BRONX,F,Outside Car Distraction,Pick-up Truck
+4902931,04/22/2024,04:15,BROOKLYN,F,Alcohol Involvement,SUV
+4156226,09/29/2024,04:00,QUEENS,M,Cell Phone (Hand-Held),SUV
+4730180,01/28/2025,15:45,BROOKLYN,M,Driver Inattention/Distraction,Motorcycle
+4872176,03/28/2024,02:45,MANHATTAN,M,Turning Improperly,Taxi
+4030434,02/02/2025,10:45,BROOKLYN,M,Pavement Slippery,Motorcycle
+4145534,12/23/2025,15:45,MANHATTAN,M,Following Too Closely,Sedan
+4723378,07/24/2024,22:30,BROOKLYN,M,Turning Improperly,SUV
+4605050,10/06/2025,21:00,QUEENS,M,Drugs (Illegal),Bus
+4796907,02/22/2024,06:30,QUEENS,M,Cell Phone (Hand-Held),SUV
+4167082,05/25/2025,16:45,STATEN ISLAND,M,Cell Phone (Hand-Held),SUV
+4329963,08/05/2024,20:45,BROOKLYN,M,Pavement Slippery,Sedan
+4699233,01/10/2024,14:30,QUEENS,M,Backing Unsafely,Sedan
+4723108,01/05/2025,02:45,MANHATTAN,F,Passing Too Closely,SUV
+4426117,09/27/2025,23:15,BROOKLYN,F,Passing Too Closely,Box Truck
+4829090,02/08/2025,00:30,QUEENS,M,Pavement Slippery,SUV
+4084714,11/25/2024,19:15,MANHATTAN,M,Fatigued/Drowsy,SUV
+4083667,08/26/2024,03:45,BROOKLYN,M,Turning Improperly,Sedan
+4404924,03/24/2024,11:15,MANHATTAN,M,Failure to Yield Right-of-Way,Taxi
+4176827,08/29/2025,18:15,BRONX,M,Brakes Defective,Van
+4196412,11/11/2025,21:00,BRONX,M,Turning Improperly,Sedan
+4744007,03/07/2024,17:30,BRONX,F,Backing Unsafely,Van
+4385191,06/15/2025,08:00,BRONX,M,Following Too Closely,SUV
+4419453,03/26/2025,12:30,BRONX,F,View Obstructed/Limited,Pick-up Truck
+4666269,04/20/2025,22:30,QUEENS,M,Failure to Yield Right-of-Way,Sedan
+4727712,11/02/2024,00:00,QUEENS,M,Unsafe Speed,Sedan
+4593830,11/04/2025,12:00,MANHATTAN,M,Driver Inattention/Distraction,Sedan
+4740734,08/07/2024,02:45,BROOKLYN,M,Passing or Lane Usage Improper,SUV
+4199367,09/27/2025,08:15,QUEENS,M,Unsafe Speed,Sedan
+4990052,05/08/2025,09:30,QUEENS,F,Pavement Slippery,E-Scooter
+4536004,04/29/2025,23:15,BROOKLYN,M,Cell Phone (Hand-Held),SUV
+4044412,12/27/2024,19:45,BRONX,M,Unsafe Speed,Sedan
+4902237,04/19/2024,13:15,BROOKLYN,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,SUV
+4310160,04/13/2024,16:00,MANHATTAN,M,Brakes Defective,Sedan
+4711027,03/24/2025,01:15,BRONX,M,Turning Improperly,SUV
+4927601,12/23/2024,00:45,MANHATTAN,M,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,SUV
+4785395,11/19/2025,08:45,QUEENS,F,Turning Improperly,Sedan
+4608158,09/13/2025,20:30,BROOKLYN,M,Pavement Slippery,Pick-up Truck
+4805934,10/18/2025,10:00,BROOKLYN,M,Backing Unsafely,SUV
+4921406,11/10/2024,07:00,BROOKLYN,M,Drugs (Illegal),Bus
+4757168,09/26/2024,16:15,BROOKLYN,M,Failure to Yield Right-of-Way,Box Truck
+4211383,02/14/2024,06:00,BRONX,M,Cell Phone (Hand-Held),SUV
+4463516,02/28/2025,08:15,MANHATTAN,M,Failure to Yield Right-of-Way,Sedan
