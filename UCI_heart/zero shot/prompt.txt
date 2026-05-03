@@ -1,0 +1,17 @@
+Act as a synthetic data generator. Provide only csv and nothing else please. Generate 300 unique patient records representing a clinical heart disease dataset. The data must accurately reflect your internal knowledge of real-world medical statistics, health and demographics.
+Output columns and their formats must be:
+• age (Integer, years)
+• sex (Categorical: Male, Female)
+• cp (Categorical: typical angina, atypical angina, non-anginal, asymptomatic)
+• trestbps (Integer, resting blood pressure in mm Hg)
+• chol (Integer, serum cholesterol in mg/dl)
+• fbs (Categorical: True if > 120 mg/dl, otherwise False)
+• restecg (Categorical: normal, stt abnormality, lv hypertrophy)
+• thalach (Integer, maximum heart rate achieved)
+• exang (Categorical: True, False for exercise induced angina)
+• oldpeak (Float, ST depression induced by exercise)
+• slope (Categorical: upsloping, flat, downsloping)
+• ca (Integer: 0, 1, 2, or 3 major vessels)
+• thal (Categorical: normal, fixed defect, reversible defect)
+• target (Categorical: Healthy, Heart Disease)
+Do not provide any explanations, just the raw CSV data.
